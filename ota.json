@@ -1,8 +1,10 @@
 {
-  "versionCode": 103,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.3/Pterodroid-1.0.3.apk",
-  "sha256": "5d3f3d235b1abab0ffc01097075c3b665681377f515fd9ede1a9dd7593f35c14",
+  "versionCode": 104,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.4/Pterodroid-1.0.4.apk",
+  "sha256": "adc1de3c4ab5ed7a657a8837dff2536c027a802932c89d64a3f2c38962baa972",
+  "sizeBytes": 21665889,
+  "publishedAt": "2026-10-21",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "chore: Remove google-services.json file for security reasons"
+  "releaseNotes": "Refactor OTA update handling and UI components"
 }

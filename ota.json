@@ -1,0 +1,8 @@
+{
+  "versionCode": 102,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.2/Pterodroid-1.0.2.apk",
+  "sha256": "cc4761204d5d8a2c763eede0c56b19aa8a0a81379d31a56fcf3b12dee532a63e",
+  "minSupportedVersionCode": 0,
+  "releaseNotes": "feat: Update Firebase initialization and configure VSCode settings for GitHub Actions"
+}

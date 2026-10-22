@@ -1,10 +1,10 @@
 {
-  "versionCode": 119,
-  "versionName": "1.0.19",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.19/Pterodroid-1.0.19.apk",
-  "sha256": "6f6be930565aa5b69afc7bde6373e0e42ca50e89f2b86435d7678afad73dee57",
+  "versionCode": 122,
+  "versionName": "1.0.22",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.22/Pterodroid-1.0.22.apk",
+  "sha256": "249025004927c927363faa582ee32e34f05baf60701eaeb0b5373335ca58c305",
   "sizeBytes": 21715045,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add About and Developer Options screens with dynamic versioning and diagnostics"
+  "releaseNotes": "Refactor headers in multiple screens to use ServerScreenHeader component"
 }

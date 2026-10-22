@@ -1,10 +1,10 @@
 {
-  "versionCode": 141,
-  "versionName": "1.0.41",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.41/Pterodroid-1.0.41.apk",
-  "sha256": "27735457b0357367266ee88f8274327f6771b315dc576f402ccbb4ac58e86122",
-  "sizeBytes": 21681317,
+  "versionCode": 142,
+  "versionName": "1.0.42",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.42/Pterodroid-1.0.42.apk",
+  "sha256": "f11f6e8fe4ea276e18b525c99393421c326e66b043d5f7f0579f319f7eec80a4",
+  "sizeBytes": 21710753,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Remove tintColor from ExpressiveCategoryCard titles for consistency"
+  "releaseNotes": "Refactor code structure for improved readability and maintainability"
 }

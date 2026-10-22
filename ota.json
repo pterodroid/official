@@ -1,10 +1,10 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.10/Pterodroid-1.0.10.apk",
-  "sha256": "3ce2dc6f160fb245c4bd6335e02df1da7be1c66b2e188dedeed00e391ec9ef13",
+  "versionCode": 111,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.11/Pterodroid-1.0.11.apk",
+  "sha256": "b935f163b8974d20f6d039acaedefc34ba12787e685a3013c1cd0bba3742c095",
   "sizeBytes": 21715929,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement biometric authentication and enhance PIN validation"
+  "releaseNotes": "feat: Add DeveloperInfo class and unit tests for developer details"
 }

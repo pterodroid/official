@@ -1,10 +1,10 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.11/Pterodroid-1.0.11.apk",
-  "sha256": "b935f163b8974d20f6d039acaedefc34ba12787e685a3013c1cd0bba3742c095",
+  "versionCode": 112,
+  "versionName": "1.0.12",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.12/Pterodroid-1.0.12.apk",
+  "sha256": "2a92df940226a398a9492bd84554f73947966ff0df8eac9aba810e7fae81c8a3",
   "sizeBytes": 21715929,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Add DeveloperInfo class and unit tests for developer details"
+  "releaseNotes": "Adjust padding for navigation bars and improve layout handling in various screens"
 }

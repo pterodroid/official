@@ -1,10 +1,10 @@
 {
-  "versionCode": 142,
-  "versionName": "1.0.42",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.42/Pterodroid-1.0.42.apk",
-  "sha256": "f11f6e8fe4ea276e18b525c99393421c326e66b043d5f7f0579f319f7eec80a4",
-  "sizeBytes": 21710753,
+  "versionCode": 143,
+  "versionName": "1.0.43",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.43/Pterodroid-1.0.43.apk",
+  "sha256": "253f0bf546311083fe69b3e4ab893c71f523518c5dab0328430c5d22c8cc0a34",
+  "sizeBytes": 21727137,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor code structure for improved readability and maintainability"
+  "releaseNotes": "Refactor Account Settings and Server List UI"
 }

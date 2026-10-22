@@ -1,10 +1,10 @@
 {
-  "versionCode": 112,
-  "versionName": "1.0.12",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.12/Pterodroid-1.0.12.apk",
-  "sha256": "2a92df940226a398a9492bd84554f73947966ff0df8eac9aba810e7fae81c8a3",
+  "versionCode": 113,
+  "versionName": "1.0.13",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.13/Pterodroid-1.0.13.apk",
+  "sha256": "fa4308613c8955ca49dec7bb6b16432a07203241b729bf3ace16f371ec1fa145",
   "sizeBytes": 21715929,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Adjust padding for navigation bars and improve layout handling in various screens"
+  "releaseNotes": "feat: Enhance PIN validation to support variable lengths and update related components"
 }

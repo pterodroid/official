@@ -1,10 +1,10 @@
 {
-  "versionCode": 104,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.4/Pterodroid-1.0.4.apk",
-  "sha256": "adc1de3c4ab5ed7a657a8837dff2536c027a802932c89d64a3f2c38962baa972",
+  "versionCode": 105,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.5/Pterodroid-1.0.5.apk",
+  "sha256": "100c26b1fa10d1d6c1d207fcfd0bfccbc9532284cf4a59f5e2b66fea1516526b",
   "sizeBytes": 21665889,
-  "publishedAt": "2026-10-21",
+  "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor OTA update handling and UI components"
+  "releaseNotes": "Add dynamic color settings and custom color picker to SettingsScreen"
 }

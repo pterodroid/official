@@ -1,10 +1,10 @@
 {
-  "versionCode": 136,
-  "versionName": "1.0.36",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.36/Pterodroid-1.0.36.apk",
-  "sha256": "1767531aaa0d7689eac8ab2bb73ef919b9d259a3c87df9a9837b6ec7d427e6c9",
-  "sizeBytes": 21717925,
+  "versionCode": 137,
+  "versionName": "1.0.37",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.37/Pterodroid-1.0.37.apk",
+  "sha256": "21b4c638b5e2ab856729e9ca0db9ebcd28123d7c17dd48751a7bf6c5a115c88e",
+  "sizeBytes": 21665893,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Add dynamic theming support with customizable color options"
+  "releaseNotes": "Refactor theme management and remove unused preferences"
 }

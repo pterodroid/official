@@ -1,10 +1,10 @@
 {
-  "versionCode": 108,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.8/Pterodroid-1.0.8.apk",
-  "sha256": "f7f2fb3de266e2fb72b901404d4aaf865cbe37a1cc861d31cf37c8020825a634",
-  "sizeBytes": 21682273,
+  "versionCode": 109,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.9/Pterodroid-1.0.9.apk",
+  "sha256": "0cda47bda958eb8e66d13186b205820d646fa5704689e67b14edff5658fa62c2",
+  "sizeBytes": 21683153,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "fix: Ensure AnimatedContent fills max size and clean up modifier usage"
+  "releaseNotes": "Implement haptic feedback system and add settings for user control"
 }

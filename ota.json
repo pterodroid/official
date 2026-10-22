@@ -1,10 +1,10 @@
 {
-  "versionCode": 109,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.9/Pterodroid-1.0.9.apk",
-  "sha256": "0cda47bda958eb8e66d13186b205820d646fa5704689e67b14edff5658fa62c2",
-  "sizeBytes": 21683153,
+  "versionCode": 110,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.10/Pterodroid-1.0.10.apk",
+  "sha256": "3ce2dc6f160fb245c4bd6335e02df1da7be1c66b2e188dedeed00e391ec9ef13",
+  "sizeBytes": 21715929,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement haptic feedback system and add settings for user control"
+  "releaseNotes": "Implement biometric authentication and enhance PIN validation"
 }

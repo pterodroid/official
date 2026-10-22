@@ -1,10 +1,10 @@
 {
-  "versionCode": 137,
-  "versionName": "1.0.37",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.37/Pterodroid-1.0.37.apk",
-  "sha256": "21b4c638b5e2ab856729e9ca0db9ebcd28123d7c17dd48751a7bf6c5a115c88e",
-  "sizeBytes": 21665893,
+  "versionCode": 139,
+  "versionName": "1.0.39",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.39/Pterodroid-1.0.39.apk",
+  "sha256": "87a7e0f6e00dcc00a1be55250a3aec1c245031afbf5bed9db3d7eee175be9461",
+  "sizeBytes": 21681317,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor theme management and remove unused preferences"
+  "releaseNotes": "refactor: Simplify text style definition in OtaChangelogSection and organize imports in TerminalLogFormatter"
 }

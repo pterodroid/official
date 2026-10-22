@@ -1,10 +1,10 @@
 {
-  "versionCode": 105,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.5/Pterodroid-1.0.5.apk",
-  "sha256": "100c26b1fa10d1d6c1d207fcfd0bfccbc9532284cf4a59f5e2b66fea1516526b",
-  "sizeBytes": 21665889,
+  "versionCode": 108,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.8/Pterodroid-1.0.8.apk",
+  "sha256": "f7f2fb3de266e2fb72b901404d4aaf865cbe37a1cc861d31cf37c8020825a634",
+  "sizeBytes": 21682273,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add dynamic color settings and custom color picker to SettingsScreen"
+  "releaseNotes": "fix: Ensure AnimatedContent fills max size and clean up modifier usage"
 }

@@ -1,10 +1,10 @@
 {
-  "versionCode": 125,
-  "versionName": "1.0.25",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.25/Pterodroid-1.0.25.apk",
-  "sha256": "e3caab5722bd21821bcaaa970bffea4a00f71fb506400b96fe7505edeedd34a8",
-  "sizeBytes": 21747073,
+  "versionCode": 131,
+  "versionName": "1.0.31",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.31/Pterodroid-1.0.31.apk",
+  "sha256": "cde8a5be884691f4c63ba176812ad39f7c756e2e3d460d05b62f5b152cd2976c",
+  "sizeBytes": 21665893,
   "publishedAt": "2026-10-22",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance SplashScreen UI and add new drawable resource"
+  "releaseNotes": "Remove Developer Options Screen, Seed Color Scheme, and related resources"
 }

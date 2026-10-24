@@ -1,10 +1,10 @@
 {
-  "versionCode": 152,
-  "versionName": "1.0.52",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.52/Pterodroid-1.0.52.apk",
-  "sha256": "16ebbe81229b47af327b2c84633e9ab22a39e3cf31382cb9747c3808d350d1e8",
+  "versionCode": 153,
+  "versionName": "1.0.53",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.53/Pterodroid-1.0.53.apk",
+  "sha256": "fa1a3b905014942f35cc4678896331862c7b42942cdddac1a1823c2650aa6191",
   "sizeBytes": 21720793,
   "publishedAt": "2026-10-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Clean up unused imports and simplify ExpressiveHeader actions in multiple screens"
+  "releaseNotes": "Enhance ExpressiveHeader with navigation icon and update ServerListScreen to use dropdown menu for adding panels"
 }

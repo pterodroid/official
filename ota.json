@@ -1,10 +1,10 @@
 {
-  "versionCode": 145,
-  "versionName": "1.0.45",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.45/Pterodroid-1.0.45.apk",
-  "sha256": "6a3245a073b12e2500e8d7fcc1fac0c1e293df62b65985445c94d4928bfa4dd0",
-  "sizeBytes": 21685157,
+  "versionCode": 146,
+  "versionName": "1.0.46",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.46/Pterodroid-1.0.46.apk",
+  "sha256": "db98111054ccc825e1abfaca29cd8cc5d2cc22024cefb3e9342f2d06c91d6594",
+  "sizeBytes": 21701541,
   "publishedAt": "2026-10-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Improve EmptyState component and update ServerDashboardScreen button states for better UX"
+  "releaseNotes": "refactor: Enhance console navigation and server connection handling for improved user experience"
 }

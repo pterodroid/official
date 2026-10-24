@@ -1,10 +1,10 @@
 {
-  "versionCode": 147,
-  "versionName": "1.0.47",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.47/Pterodroid-1.0.47.apk",
-  "sha256": "c50cb87fc52411657b19c7861cade293a2d2d3285e64cde468f3e1ece921a8f9",
+  "versionCode": 148,
+  "versionName": "1.0.48",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.48/Pterodroid-1.0.48.apk",
+  "sha256": "596e5d717622ff4c20832627e9ee3e08728bcbb89406794503a7abc1a801ba75",
   "sizeBytes": 21704409,
   "publishedAt": "2026-10-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement OTA update notification system"
+  "releaseNotes": "Add settings navigation to bottom bar and server dashboard"
 }

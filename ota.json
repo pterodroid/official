@@ -1,10 +1,10 @@
 {
-  "versionCode": 150,
-  "versionName": "1.0.50",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.50/Pterodroid-1.0.50.apk",
-  "sha256": "8769d1eaa9a3bd80994e3e9fa67549c2cd4268130088d2bc4c60593a73baaff9",
-  "sizeBytes": 21704409,
+  "versionCode": 151,
+  "versionName": "1.0.51",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.51/Pterodroid-1.0.51.apk",
+  "sha256": "083781026c1bfae7c5f0dca31d28f397d3eab087386cff27a9b277bf88382e36",
+  "sizeBytes": 21720793,
   "publishedAt": "2026-10-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update OtaCheckForUpdateCard to handle download actions and improve UI interactions"
+  "releaseNotes": "Simplify ExpressiveHeader usage and enhance server management UI with dropdown menus"
 }

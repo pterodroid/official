@@ -1,10 +1,10 @@
 {
-  "versionCode": 149,
-  "versionName": "1.0.49",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.49/Pterodroid-1.0.49.apk",
-  "sha256": "db42a4cc91f4e96375e186729b65a69b1a2120b4f5c5a1abb9a12a2b6a6a73e6",
+  "versionCode": 150,
+  "versionName": "1.0.50",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.50/Pterodroid-1.0.50.apk",
+  "sha256": "8769d1eaa9a3bd80994e3e9fa67549c2cd4268130088d2bc4c60593a73baaff9",
   "sizeBytes": 21704409,
   "publishedAt": "2026-10-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Update OtaUpdater.start method to reflect UI and checks relocation to Compose app"
+  "releaseNotes": "Update OtaCheckForUpdateCard to handle download actions and improve UI interactions"
 }

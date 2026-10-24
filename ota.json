@@ -1,10 +1,10 @@
 {
-  "versionCode": 146,
-  "versionName": "1.0.46",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.46/Pterodroid-1.0.46.apk",
-  "sha256": "db98111054ccc825e1abfaca29cd8cc5d2cc22024cefb3e9342f2d06c91d6594",
-  "sizeBytes": 21701541,
+  "versionCode": 147,
+  "versionName": "1.0.47",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.47/Pterodroid-1.0.47.apk",
+  "sha256": "c50cb87fc52411657b19c7861cade293a2d2d3285e64cde468f3e1ece921a8f9",
+  "sizeBytes": 21704409,
   "publishedAt": "2026-10-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Enhance console navigation and server connection handling for improved user experience"
+  "releaseNotes": "Implement OTA update notification system"
 }

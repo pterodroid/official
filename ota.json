@@ -1,10 +1,10 @@
 {
-  "versionCode": 143,
-  "versionName": "1.0.43",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.43/Pterodroid-1.0.43.apk",
-  "sha256": "253f0bf546311083fe69b3e4ab893c71f523518c5dab0328430c5d22c8cc0a34",
-  "sizeBytes": 21727137,
-  "publishedAt": "2026-10-22",
+  "versionCode": 144,
+  "versionName": "1.0.44",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.44/Pterodroid-1.0.44.apk",
+  "sha256": "73a3fc025619ed5742884df11c7c4341cd1f073fac72969ad653c57476e812f5",
+  "sizeBytes": 21701541,
+  "publishedAt": "2026-10-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor Account Settings and Server List UI"
+  "releaseNotes": "Refactor typography to replace Expressive Serif with Roboto Flex"
 }

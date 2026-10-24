@@ -1,10 +1,10 @@
 {
-  "versionCode": 144,
-  "versionName": "1.0.44",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.44/Pterodroid-1.0.44.apk",
-  "sha256": "73a3fc025619ed5742884df11c7c4341cd1f073fac72969ad653c57476e812f5",
-  "sizeBytes": 21701541,
+  "versionCode": 145,
+  "versionName": "1.0.45",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.45/Pterodroid-1.0.45.apk",
+  "sha256": "6a3245a073b12e2500e8d7fcc1fac0c1e293df62b65985445c94d4928bfa4dd0",
+  "sizeBytes": 21685157,
   "publishedAt": "2026-10-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor typography to replace Expressive Serif with Roboto Flex"
+  "releaseNotes": "refactor: Improve EmptyState component and update ServerDashboardScreen button states for better UX"
 }

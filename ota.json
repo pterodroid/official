@@ -1,10 +1,10 @@
 {
-  "versionCode": 159,
-  "versionName": "1.0.59",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.59/Pterodroid-1.0.59.apk",
-  "sha256": "9599f6ea753fd0dafe0dfb5941c4717ac435c206e70d7091fb8dac221cdef078",
-  "sizeBytes": 21705225,
+  "versionCode": 160,
+  "versionName": "1.0.60",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.60/Pterodroid-1.0.60.apk",
+  "sha256": "326d008f4f2282718accf08fec29c23eac07925526451c02e2f72f1d445a019a",
+  "sizeBytes": 21721609,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Remove activeApiToken from user schema and enhance validation rules for user, panel, and note data"
+  "releaseNotes": "Refactor SecurityPreferences to enhance passcode hashing with configurable iterations and improve security during unlock attempts"
 }

@@ -1,10 +1,10 @@
 {
-  "versionCode": 169,
-  "versionName": "1.0.69",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.69/Pterodroid-1.0.69.apk",
-  "sha256": "92b4e68d84b9c46077467e9b17b82f48330a7f2c27d16ffc0af34596b748dcf8",
+  "versionCode": 170,
+  "versionName": "1.0.70",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.70/Pterodroid-1.0.70.apk",
+  "sha256": "b8c0b6b510da9865a718b6497e5804e0795476bdf3e5a0b2e610ccdcedf8849b",
   "sizeBytes": 21737957,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add GitHub Actions workflow for unit tests"
+  "releaseNotes": "Add unit tests for SyncCrypto: handle Unicode, validate malformed values, enforce key size, and ensure deterministic key derivation"
 }

@@ -1,10 +1,10 @@
 {
-  "versionCode": 171,
-  "versionName": "1.0.71",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.71/Pterodroid-1.0.71.apk",
-  "sha256": "e0b33c23d2bc36fa1c3cfc9f77050bee8b3475fbe049a1aeecdb77837d155c40",
+  "versionCode": 172,
+  "versionName": "1.0.72",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.72/Pterodroid-1.0.72.apk",
+  "sha256": "fcd9986f0f90b9795b4d5fafffe93a3c967807168090ce6fc53718229da61cf4",
   "sizeBytes": 21737957,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update GitHub Actions workflow: upgrade JDK to 21 and enhance test failure reporting"
+  "releaseNotes": "Update release workflow to use JDK 21 and add unit tests as a release gate; include .vscode/settings.json in .gitignore"
 }

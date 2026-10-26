@@ -1,10 +1,10 @@
 {
-  "versionCode": 167,
-  "versionName": "1.0.67",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.67/Pterodroid-1.0.67.apk",
-  "sha256": "e1aa809ffa6d77eef7c4033197012678ae38d72d66a74ac81f6cd63250d13166",
+  "versionCode": 168,
+  "versionName": "1.0.68",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.68/Pterodroid-1.0.68.apk",
+  "sha256": "a3fb73d0bbaabc6397c4c308d32c2d8f75011c461e405da2b82febf56bbef9bc",
   "sizeBytes": 21737957,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor ErrorReporter to avoid hardcoding webhook URL and use a configurable endpoint"
+  "releaseNotes": "Implement syncPanelOrNotify method to handle cloud saving with encrypted sync checks"
 }

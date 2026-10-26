@@ -1,10 +1,10 @@
 {
-  "versionCode": 155,
-  "versionName": "1.0.55",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.55/Pterodroid-1.0.55.apk",
-  "sha256": "9edd423b07641dbe02a5f66a992f8f9f94a4a5ffc9872b6795137fc4dd847036",
-  "sizeBytes": 21704409,
+  "versionCode": 156,
+  "versionName": "1.0.56",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.56/Pterodroid-1.0.56.apk",
+  "sha256": "80d53bbd8689717bc0973e848e639cec33f90e8ab966f9e8a4667ead7ed7b358",
+  "sizeBytes": 21704825,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor ApiClientFactory to remove apiToken parameter from createRawOkHttpClient and update PteroRepository usage"
+  "releaseNotes": "Add network security configuration and enforce HTTPS for remote URLs"
 }

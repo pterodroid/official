@@ -1,10 +1,10 @@
 {
-  "versionCode": 178,
-  "versionName": "1.0.78",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.78/Pterodroid-1.0.78.apk",
-  "sha256": "2c3380b894844b239c6abef2a34ff8d1b8171b70d2b0e4d2375ec74d8462ba71",
+  "versionCode": 179,
+  "versionName": "1.0.79",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.79/Pterodroid-1.0.79.apk",
+  "sha256": "b5a32db987ced99c20e3240df07423b3aa766ea1349e76704fd31dde2c66626d",
   "sizeBytes": 6434877,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor file download logic: implement saveToDownloads method for improved file handling and compatibility with API 29+"
+  "releaseNotes": "Implement retry logic for 429 responses: add retryDelayMillis function and retryOn429 interceptor in ApiClientFactory, along with unit tests for validation"
 }

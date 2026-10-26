@@ -1,10 +1,10 @@
 {
-  "versionCode": 165,
-  "versionName": "1.0.65",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.65/Pterodroid-1.0.65.apk",
-  "sha256": "a54ebc830cce29567fe7255a9a29838edb739df1729a3895e14963bd6d2a2b17",
+  "versionCode": 166,
+  "versionName": "1.0.66",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.66/Pterodroid-1.0.66.apk",
+  "sha256": "b7da2eb76a89799d47de69a4625e0ddf3d02788a375aea6e2d2b44756941ffef",
   "sizeBytes": 21737957,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add sync passphrase setup and unlock functionality in MainViewModel and SecurityPrivacyScreen"
+  "releaseNotes": "Add error handling for passphrase setup in SyncEncryptionCard"
 }

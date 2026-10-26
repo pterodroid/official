@@ -1,10 +1,10 @@
 {
-  "versionCode": 174,
-  "versionName": "1.0.74",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.74/Pterodroid-1.0.74.apk",
-  "sha256": "4a8fd3634a9968513f4022b1b777e711879f836ed1a8a48fcbf95b478f0df1f2",
+  "versionCode": 175,
+  "versionName": "1.0.75",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.75/Pterodroid-1.0.75.apk",
+  "sha256": "418c2936b43654ddda0da7cf23768d111f96258b031360ce6c828750e8608099",
   "sizeBytes": 21737957,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement sync reset functionality: add resetSync method in FirebaseAuthRepository and integrate it into MainViewModel and SecurityPrivacyScreen"
+  "releaseNotes": "Implement local panel upload on encrypted sync unlock in MainViewModel"
 }

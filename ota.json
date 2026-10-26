@@ -1,10 +1,10 @@
 {
-  "versionCode": 175,
-  "versionName": "1.0.75",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.75/Pterodroid-1.0.75.apk",
-  "sha256": "418c2936b43654ddda0da7cf23768d111f96258b031360ce6c828750e8608099",
-  "sizeBytes": 21737957,
+  "versionCode": 176,
+  "versionName": "1.0.76",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.76/Pterodroid-1.0.76.apk",
+  "sha256": "7548dc56f917aa5d39e021321e773230ba08b0b429725a393d4e9267b6d814e7",
+  "sizeBytes": 6418385,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement local panel upload on encrypted sync unlock in MainViewModel"
+  "releaseNotes": "Enable code shrinking for release builds and update ProGuard rules for Moshi and Retrofit compatibility"
 }

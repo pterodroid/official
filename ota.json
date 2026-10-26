@@ -1,10 +1,10 @@
 {
-  "versionCode": 180,
-  "versionName": "1.0.80",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.80/Pterodroid-1.0.80.apk",
-  "sha256": "034b64cb28ae6a888a2f1e8513165d914c6ab1f1d03cd4fc0ccbd589fd119529",
+  "versionCode": 181,
+  "versionName": "1.0.81",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.81/Pterodroid-1.0.81.apk",
+  "sha256": "a09060ac649de768bb75edbdd500a3f1c1f678f01a9d6ce31b54ad2d65df47b3",
   "sizeBytes": 6434877,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance pagination for backups: add page parameter to listBackups method and implement MAX_PAGES limit in PteroRepository"
+  "releaseNotes": "Add socket generation tracking and server key validation in websocket handling"
 }

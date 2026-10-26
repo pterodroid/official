@@ -1,11 +1,11 @@
 {
-  "versionCode": 186,
-  "versionName": "1.0.86",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.86/Pterodroid-1.0.86.apk",
-  "sha256": "fdfe68c1c1f263a9a86b4afecc136c05e3c53af1fc9eef92883666e7c2b5244b",
-  "sizeBytes": 6418453,
+  "versionCode": 187,
+  "versionName": "1.0.87",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.87/Pterodroid-1.0.87.apk",
+  "sha256": "037851f62083b16c6a49933a6b1c71311055e62367bcbc3222ca5a9ce83967ce",
+  "sizeBytes": 6418457,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor navigation logic and enhance OTA manager initialization: streamline server screen handling and add cleanup option",
+  "releaseNotes": "Remove pinned GitHub Actions workflow from settings: clear release.yml reference(test)",
   "changelog": []
 }

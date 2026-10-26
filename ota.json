@@ -1,10 +1,10 @@
 {
-  "versionCode": 158,
-  "versionName": "1.0.58",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.58/Pterodroid-1.0.58.apk",
-  "sha256": "bd0fd4ac5874ff4e99df89d3aa9b7ae70c049c1c0afac4341591961acbde80f7",
+  "versionCode": 159,
+  "versionName": "1.0.59",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.59/Pterodroid-1.0.59.apk",
+  "sha256": "9599f6ea753fd0dafe0dfb5941c4717ac435c206e70d7091fb8dac221cdef078",
   "sizeBytes": 21705225,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update AndroidManifest and XML rules to enhance backup and data extraction configurations"
+  "releaseNotes": "Remove activeApiToken from user schema and enhance validation rules for user, panel, and note data"
 }

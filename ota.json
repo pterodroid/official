@@ -1,10 +1,10 @@
 {
-  "versionCode": 173,
-  "versionName": "1.0.73",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.73/Pterodroid-1.0.73.apk",
-  "sha256": "bb53e1d9309eba12ab5c2bf88d9b1366740f8432660736221250810dac55f186",
+  "versionCode": 174,
+  "versionName": "1.0.74",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.74/Pterodroid-1.0.74.apk",
+  "sha256": "4a8fd3634a9968513f4022b1b777e711879f836ed1a8a48fcbf95b478f0df1f2",
   "sizeBytes": 21737957,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add SyncNudgeCard component and integrate it into ServerListScreen and SetupCredentialsScreen for sync notifications"
+  "releaseNotes": "Implement sync reset functionality: add resetSync method in FirebaseAuthRepository and integrate it into MainViewModel and SecurityPrivacyScreen"
 }

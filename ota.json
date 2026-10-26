@@ -1,10 +1,10 @@
 {
-  "versionCode": 163,
-  "versionName": "1.0.63",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.63/Pterodroid-1.0.63.apk",
-  "sha256": "03a75e3d56c78587b73e303c1544de9ddd501b248a587d4b9765dc131b7bc81f",
+  "versionCode": 164,
+  "versionName": "1.0.64",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.64/Pterodroid-1.0.64.apk",
+  "sha256": "c10d5edfb7a9fc3d1199a259fd4502e5f629d9fbd1f329e53b7f6be107983dc7",
   "sizeBytes": 21721573,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add SyncKeyStore for secure storage of sync keys with encryption and unit tests"
+  "releaseNotes": "Implement sync functionality with encryption for user panels and add corresponding Firestore rules"
 }

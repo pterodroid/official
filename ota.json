@@ -1,10 +1,10 @@
 {
-  "versionCode": 168,
-  "versionName": "1.0.68",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.68/Pterodroid-1.0.68.apk",
-  "sha256": "a3fb73d0bbaabc6397c4c308d32c2d8f75011c461e405da2b82febf56bbef9bc",
+  "versionCode": 169,
+  "versionName": "1.0.69",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.69/Pterodroid-1.0.69.apk",
+  "sha256": "92b4e68d84b9c46077467e9b17b82f48330a7f2c27d16ffc0af34596b748dcf8",
   "sizeBytes": 21737957,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement syncPanelOrNotify method to handle cloud saving with encrypted sync checks"
+  "releaseNotes": "Add GitHub Actions workflow for unit tests"
 }

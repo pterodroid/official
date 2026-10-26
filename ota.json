@@ -1,10 +1,10 @@
 {
-  "versionCode": 157,
-  "versionName": "1.0.57",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.57/Pterodroid-1.0.57.apk",
-  "sha256": "47b8ba1dded9434a7b901baab0ebbd85ef4475a66b9a1fc534f2faffbab1560a",
-  "sizeBytes": 21704825,
+  "versionCode": 158,
+  "versionName": "1.0.58",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.58/Pterodroid-1.0.58.apk",
+  "sha256": "bd0fd4ac5874ff4e99df89d3aa9b7ae70c049c1c0afac4341591961acbde80f7",
+  "sizeBytes": 21705225,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor KeystoreCrypto to use KeyGenerator for fallback key generation and improve error handling for secret key retrieval"
+  "releaseNotes": "Update AndroidManifest and XML rules to enhance backup and data extraction configurations"
 }

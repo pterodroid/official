@@ -1,10 +1,10 @@
 {
-  "versionCode": 160,
-  "versionName": "1.0.60",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.60/Pterodroid-1.0.60.apk",
-  "sha256": "326d008f4f2282718accf08fec29c23eac07925526451c02e2f72f1d445a019a",
-  "sizeBytes": 21721609,
+  "versionCode": 161,
+  "versionName": "1.0.61",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.61/Pterodroid-1.0.61.apk",
+  "sha256": "4acc8dc7daac8f5f5148bbed950384fd6a6fad706cecf21f4bb2ffcf160c4257",
+  "sizeBytes": 21705189,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor SecurityPreferences to enhance passcode hashing with configurable iterations and improve security during unlock attempts"
+  "releaseNotes": "Change Firebase App Check debug dependency to debugImplementation for better build configuration"
 }

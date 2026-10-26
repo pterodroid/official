@@ -1,10 +1,10 @@
 {
-  "versionCode": 164,
-  "versionName": "1.0.64",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.64/Pterodroid-1.0.64.apk",
-  "sha256": "c10d5edfb7a9fc3d1199a259fd4502e5f629d9fbd1f329e53b7f6be107983dc7",
-  "sizeBytes": 21721573,
+  "versionCode": 165,
+  "versionName": "1.0.65",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.65/Pterodroid-1.0.65.apk",
+  "sha256": "a54ebc830cce29567fe7255a9a29838edb739df1729a3895e14963bd6d2a2b17",
+  "sizeBytes": 21737957,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement sync functionality with encryption for user panels and add corresponding Firestore rules"
+  "releaseNotes": "Add sync passphrase setup and unlock functionality in MainViewModel and SecurityPrivacyScreen"
 }

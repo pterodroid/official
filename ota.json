@@ -1,11 +1,11 @@
 {
-  "versionCode": 187,
-  "versionName": "1.0.87",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.87/Pterodroid-1.0.87.apk",
-  "sha256": "037851f62083b16c6a49933a6b1c71311055e62367bcbc3222ca5a9ce83967ce",
-  "sizeBytes": 6418457,
+  "versionCode": 188,
+  "versionName": "1.0.88",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.88/Pterodroid-1.0.88.apk",
+  "sha256": "6d01e4be07ac3b35fb6a3fb1dedd244d8ccffcab96aaa2bf886ccd4a75e05cd8",
+  "sizeBytes": 6418453,
   "publishedAt": "2026-10-26",
-  "minSupportedVersionCode": 0,
-  "releaseNotes": "Remove pinned GitHub Actions workflow from settings: clear release.yml reference(test)",
+  "minSupportedVersionCode": 188,
+  "releaseNotes": "Fix default value for MIN_SUPPORTED_VERSION_CODE in release workflow: use VERSION_CODE as fallback",
   "changelog": []
 }

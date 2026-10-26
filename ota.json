@@ -1,10 +1,10 @@
 {
-  "versionCode": 177,
-  "versionName": "1.0.77",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.77/Pterodroid-1.0.77.apk",
-  "sha256": "2f35a6566fd606463cbf74876eb20724497258de0f7eb892ef5da939bf169913",
+  "versionCode": 178,
+  "versionName": "1.0.78",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.78/Pterodroid-1.0.78.apk",
+  "sha256": "2c3380b894844b239c6abef2a34ff8d1b8171b70d2b0e4d2375ec74d8462ba71",
   "sizeBytes": 6434877,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add permissions handling: implement PermissionsScreen, update AppPermissions, and enhance server attributes with permission metadata"
+  "releaseNotes": "Refactor file download logic: implement saveToDownloads method for improved file handling and compatibility with API 29+"
 }

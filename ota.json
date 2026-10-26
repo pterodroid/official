@@ -1,10 +1,10 @@
 {
-  "versionCode": 183,
-  "versionName": "1.0.83",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.83/Pterodroid-1.0.83.apk",
-  "sha256": "8e2dda5dcfaebe250880e8b37ee5049ae2afbf7c301a704a1121c272585becf4",
-  "sizeBytes": 6434877,
+  "versionCode": 184,
+  "versionName": "1.0.84",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.84/Pterodroid-1.0.84.apk",
+  "sha256": "7d66b1ff83fa408edcd5c1860f0d580b9266e8da18463a5c14283e6ef4a6d801",
+  "sizeBytes": 6418493,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance error handling in BackupsViewModel: parse exceptions using PteroErrorParser and maintain cancellation exception propagation"
+  "releaseNotes": "Refactor OTA update handling: remove dialog state management and streamline update notification logic"
 }

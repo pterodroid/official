@@ -1,10 +1,10 @@
 {
-  "versionCode": 162,
-  "versionName": "1.0.62",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.62/Pterodroid-1.0.62.apk",
-  "sha256": "242129077687d366ac2cebdaff888ddab555ca2e8f41c07a19990e57595768dd",
-  "sizeBytes": 21705189,
+  "versionCode": 163,
+  "versionName": "1.0.63",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.63/Pterodroid-1.0.63.apk",
+  "sha256": "03a75e3d56c78587b73e303c1544de9ddd501b248a587d4b9765dc131b7bc81f",
+  "sizeBytes": 21721573,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add SyncCrypto for passphrase-based encryption and decryption of synced data"
+  "releaseNotes": "Add SyncKeyStore for secure storage of sync keys with encryption and unit tests"
 }

@@ -1,10 +1,11 @@
 {
-  "versionCode": 184,
-  "versionName": "1.0.84",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.84/Pterodroid-1.0.84.apk",
-  "sha256": "7d66b1ff83fa408edcd5c1860f0d580b9266e8da18463a5c14283e6ef4a6d801",
-  "sizeBytes": 6418493,
+  "versionCode": 185,
+  "versionName": "1.0.85",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.85/Pterodroid-1.0.85.apk",
+  "sha256": "609c6c9f808c624b0329e45b0e6514c13a46fb99c6168bf35bc68acffb51abc3",
+  "sizeBytes": 6418453,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor OTA update handling: remove dialog state management and streamline update notification logic"
+  "releaseNotes": "Implement forced update screen and enhance OTA update handling: add changelog support and update version checks",
+  "changelog": []
 }

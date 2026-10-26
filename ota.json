@@ -1,10 +1,10 @@
 {
-  "versionCode": 161,
-  "versionName": "1.0.61",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.61/Pterodroid-1.0.61.apk",
-  "sha256": "4acc8dc7daac8f5f5148bbed950384fd6a6fad706cecf21f4bb2ffcf160c4257",
+  "versionCode": 162,
+  "versionName": "1.0.62",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.62/Pterodroid-1.0.62.apk",
+  "sha256": "242129077687d366ac2cebdaff888ddab555ca2e8f41c07a19990e57595768dd",
   "sizeBytes": 21705189,
   "publishedAt": "2026-10-26",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Change Firebase App Check debug dependency to debugImplementation for better build configuration"
+  "releaseNotes": "Add SyncCrypto for passphrase-based encryption and decryption of synced data"
 }

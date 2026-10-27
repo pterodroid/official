@@ -1,11 +1,11 @@
 {
-  "versionCode": 195,
-  "versionName": "1.0.95",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.95/Pterodroid-1.0.95.apk",
-  "sha256": "99f9f158583cb06058ae44c79aa140ecd6029ac6e0d3c9260f513f9566c4fa11",
-  "sizeBytes": 6435645,
+  "versionCode": 196,
+  "versionName": "1.0.96",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.96/Pterodroid-1.0.96.apk",
+  "sha256": "2b15b657014a92d2298c0b4e2da0d3b944973495298c1a3494ff9b4cb2cfb079",
+  "sizeBytes": 6523981,
   "publishedAt": "2026-10-27",
-  "minSupportedVersionCode": 195,
-  "releaseNotes": "Update GitHub workflows: add paths for triggering builds and tests, and remove OtaUpdater implementation",
+  "minSupportedVersionCode": 196,
+  "releaseNotes": "Add Firebase Messaging for OTA updates: implement UpdatePushService and subscribe to topic",
   "changelog": []
 }

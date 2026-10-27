@@ -1,11 +1,11 @@
 {
-  "versionCode": 197,
-  "versionName": "1.0.97",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.97/Pterodroid-1.0.97.apk",
-  "sha256": "ba72ff091d4f8de3f805186f8d9855b7cdb2154d3aed38dfb71cace0d2119c00",
+  "versionCode": 198,
+  "versionName": "1.0.98",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.98/Pterodroid-1.0.98.apk",
+  "sha256": "6cb76a53b3aeef3f5832adc467ca83f143908ad2ca2a44181d50718454cb6c65",
   "sizeBytes": 6523981,
   "publishedAt": "2026-10-27",
-  "minSupportedVersionCode": 197,
-  "releaseNotes": "Add DaemonEventParser and extend DaemonEvent handling in ConsoleViewModel for installation and backup events",
+  "minSupportedVersionCode": 198,
+  "releaseNotes": "Implement file streaming capabilities: add TransferStreams for efficient file handling and create unit tests for validation",
   "changelog": []
 }

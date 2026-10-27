@@ -1,11 +1,11 @@
 {
-  "versionCode": 216,
-  "versionName": "1.0.116",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.116/Pterodroid-1.0.116.apk",
-  "sha256": "91da998f62bbff0bea72e810917d5957b47ec344518d946261f8f518f4639b35",
+  "versionCode": 217,
+  "versionName": "1.0.117",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.117/Pterodroid-1.0.117.apk",
+  "sha256": "ace498d755612f2a1a49f3a4611193172cb3b7f883f158f483f10957dd90d46f",
   "sizeBytes": 6567381,
   "publishedAt": "2026-10-27",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Refactor ClockSkewHint: streamline date error detection and add unit tests for certificate validation scenarios",
+  "releaseNotes": "Add ActivityScreen navigation and UI elements: include ActivityViewModel, update MainViewModel for new screen, and enhance PteroBottomBar for activity navigation",
   "changelog": []
 }

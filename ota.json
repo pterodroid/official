@@ -1,11 +1,11 @@
 {
-  "versionCode": 203,
-  "versionName": "1.0.103",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.103/Pterodroid-1.0.103.apk",
-  "sha256": "76c36c739aee07d9b850422b871b2c450a672896e1f036a8fa911b0d680012ad",
-  "sizeBytes": 6540373,
+  "versionCode": 204,
+  "versionName": "1.0.104",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.104/Pterodroid-1.0.104.apk",
+  "sha256": "979e281adec3060db2fe721e3ef3103e26c723c26e0712613346ea7f6ca272f1",
+  "sizeBytes": 6540369,
   "publishedAt": "2026-10-27",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Fix build.gradle.kts, libs.versions.toml, and gradle-wrapper.properties: ensure newline at end of file",
+  "releaseNotes": "Implement polling for backup status in BackupsViewModel: add startPollingIfNeeded method",
   "changelog": []
 }

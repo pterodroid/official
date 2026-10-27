@@ -1,11 +1,11 @@
 {
-  "versionCode": 209,
-  "versionName": "1.0.109",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.109/Pterodroid-1.0.109.apk",
-  "sha256": "8f3d2e1618009838e30983ad06ebb1b70cf07019d7a1c75355a2a9b4abfc6016",
-  "sizeBytes": 6558957,
+  "versionCode": 210,
+  "versionName": "1.0.110",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.110/Pterodroid-1.0.110.apk",
+  "sha256": "3ab6c3efbabf18035fc6d63744efe0f9fa31e9e952faa7daca7957a6bc2e8cff",
+  "sizeBytes": 6560641,
   "publishedAt": "2026-10-27",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Add new fields to ServerAttributes model and update related UI components with string resources for better localization",
+  "releaseNotes": "Add auto-scroll and keep screen on options to ConsoleScreen menu with corresponding string resources",
   "changelog": []
 }

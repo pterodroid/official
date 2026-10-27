@@ -1,11 +1,11 @@
 {
-  "versionCode": 189,
-  "versionName": "1.0.89",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.89/Pterodroid-1.0.89.apk",
-  "sha256": "68597cf51fa81d7c6ce05851c7a0050ef5abc17179aff4e42b013507efba0503",
-  "sizeBytes": 6434841,
+  "versionCode": 190,
+  "versionName": "1.0.90",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.90/Pterodroid-1.0.90.apk",
+  "sha256": "120387036f7f36b83008aa2cf308e2a2ffd0b9ff2d3b234a33a244c6ac542547",
+  "sizeBytes": 6434837,
   "publishedAt": "2026-10-27",
-  "minSupportedVersionCode": 189,
-  "releaseNotes": "Enhance server monitoring and UI components: update state handling in ServerMonitorWorker, replace delay with timeout in MainViewModel, and add skeleton loading components for server cards.",
+  "minSupportedVersionCode": 190,
+  "releaseNotes": "Refactor server monitoring and websocket handling: improve power signal processing, enhance alert preferences, and optimize event emission in websocket connections.",
   "changelog": []
 }

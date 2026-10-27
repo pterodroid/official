@@ -1,11 +1,11 @@
 {
-  "versionCode": 207,
-  "versionName": "1.0.107",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.107/Pterodroid-1.0.107.apk",
-  "sha256": "7dfd2c64852fa8fc267e4840903f1e4ff971b9ca4c894800758e9187b46d1b9e",
-  "sizeBytes": 6540369,
+  "versionCode": 208,
+  "versionName": "1.0.108",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.108/Pterodroid-1.0.108.apk",
+  "sha256": "81f8731f88a2ebfa615509d99d714e8634c365e5b7de87bab1288d28523e5d5e",
+  "sizeBytes": 6546549,
   "publishedAt": "2026-10-27",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Add unit tests for PteroErrorParser: cover various error scenarios and response handling",
+  "releaseNotes": "Refactor navigation handling in PteroAppNavigation: use LaunchedEffect for server navigation fallback; enhance ConnectionsScreen with error handling for panel editing; update PermissionsScreen to use string resources for better localization.",
   "changelog": []
 }

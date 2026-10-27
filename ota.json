@@ -1,11 +1,11 @@
 {
-  "versionCode": 192,
-  "versionName": "1.0.92",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.92/Pterodroid-1.0.92.apk",
-  "sha256": "a1a48d01dc49ae90f0726a042b12c07cae7d37244c6543e6911b224e77376f95",
-  "sizeBytes": 6434837,
+  "versionCode": 193,
+  "versionName": "1.0.93",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.93/Pterodroid-1.0.93.apk",
+  "sha256": "09a57055a337cd10d323b84eb9055d34aee769e17e68ee43d0314543bf32f138",
+  "sizeBytes": 6435645,
   "publishedAt": "2026-10-27",
-  "minSupportedVersionCode": 192,
-  "releaseNotes": "Enhance UpdateScreen: add auto-install feature, improve UI components, and implement changelog display",
+  "minSupportedVersionCode": 193,
+  "releaseNotes": "Add toggle backup lock functionality: implement API call, ViewModel method, and UI integration",
   "changelog": []
 }

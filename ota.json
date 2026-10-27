@@ -1,11 +1,11 @@
 {
-  "versionCode": 188,
-  "versionName": "1.0.88",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.88/Pterodroid-1.0.88.apk",
-  "sha256": "6d01e4be07ac3b35fb6a3fb1dedd244d8ccffcab96aaa2bf886ccd4a75e05cd8",
-  "sizeBytes": 6418453,
-  "publishedAt": "2026-10-26",
-  "minSupportedVersionCode": 188,
-  "releaseNotes": "Fix default value for MIN_SUPPORTED_VERSION_CODE in release workflow: use VERSION_CODE as fallback",
+  "versionCode": 189,
+  "versionName": "1.0.89",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.89/Pterodroid-1.0.89.apk",
+  "sha256": "68597cf51fa81d7c6ce05851c7a0050ef5abc17179aff4e42b013507efba0503",
+  "sizeBytes": 6434841,
+  "publishedAt": "2026-10-27",
+  "minSupportedVersionCode": 189,
+  "releaseNotes": "Enhance server monitoring and UI components: update state handling in ServerMonitorWorker, replace delay with timeout in MainViewModel, and add skeleton loading components for server cards.",
   "changelog": []
 }

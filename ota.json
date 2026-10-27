@@ -1,11 +1,11 @@
 {
-  "versionCode": 204,
-  "versionName": "1.0.104",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.104/Pterodroid-1.0.104.apk",
-  "sha256": "979e281adec3060db2fe721e3ef3103e26c723c26e0712613346ea7f6ca272f1",
-  "sizeBytes": 6540369,
+  "versionCode": 205,
+  "versionName": "1.0.105",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.105/Pterodroid-1.0.105.apk",
+  "sha256": "36d3eb519f5cd2a3de20d3c0a9eb7bd99272c94a8b67120506b2bf14a2ed1333",
+  "sizeBytes": 6540373,
   "publishedAt": "2026-10-27",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Implement polling for backup status in BackupsViewModel: add startPollingIfNeeded method",
+  "releaseNotes": "Enhance URL validation in MainViewModel: require HTTPS and handle errors gracefully",
   "changelog": []
 }

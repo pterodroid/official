@@ -1,11 +1,11 @@
 {
-  "versionCode": 199,
-  "versionName": "1.0.99",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.99/Pterodroid-1.0.99.apk",
-  "sha256": "79811c15c8c4cc84bf609ab413cc68eadb5b2876ad7def9008b6594395d856e5",
-  "sizeBytes": 6540365,
+  "versionCode": 200,
+  "versionName": "1.0.100",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.100/Pterodroid-1.0.100.apk",
+  "sha256": "a0dcad57e265c51b7d06618199226bf7770e2e87f42e834609c3e91c1ef95afd",
+  "sizeBytes": 6540373,
   "publishedAt": "2026-10-27",
-  "minSupportedVersionCode": 199,
-  "releaseNotes": "Implement file transfer progress tracking: add TransferProgress data class, update upload and download methods, and integrate progress reporting in UI",
+  "minSupportedVersionCode": 200,
+  "releaseNotes": "Fix gradle-wrapper.properties: ensure proper newline at end of file",
   "changelog": []
 }

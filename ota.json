@@ -1,11 +1,11 @@
 {
-  "versionCode": 211,
-  "versionName": "1.0.111",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.111/Pterodroid-1.0.111.apk",
-  "sha256": "4cfc68f303d75eadcbd1f70c2f53b35a75b0524d7635eaf9c9fbc1bedba0bf96",
-  "sizeBytes": 6560641,
+  "versionCode": 212,
+  "versionName": "1.0.112",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.112/Pterodroid-1.0.112.apk",
+  "sha256": "b8f2c8386b04cc70ff995fbbf17985bbc1dd7c746d89f90a248bb7733239a7a8",
+  "sizeBytes": 6563661,
   "publishedAt": "2026-10-27",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Add rename and reinstall server functionality to PterodactylApiService and PteroRepository; include unit tests for RenameServerRequest",
+  "releaseNotes": "Implement server rename and reinstall functionality in ServerViewModel and ServerDashboardScreen; add corresponding UI elements and string resources; include unit tests for permission handling",
   "changelog": []
 }

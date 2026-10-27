@@ -1,11 +1,11 @@
 {
-  "versionCode": 194,
-  "versionName": "1.0.94",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.94/Pterodroid-1.0.94.apk",
-  "sha256": "c583c31986d307a236b425f5548d4c56a3f93c831edf19a01c57c026f974d52f",
-  "sizeBytes": 6435641,
+  "versionCode": 195,
+  "versionName": "1.0.95",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.95/Pterodroid-1.0.95.apk",
+  "sha256": "99f9f158583cb06058ae44c79aa140ecd6029ac6e0d3c9260f513f9566c4fa11",
+  "sizeBytes": 6435645,
   "publishedAt": "2026-10-27",
-  "minSupportedVersionCode": 194,
-  "releaseNotes": "Enhance OTA functionality: add last check failure tracking, update UI components for auto-check and Wi-Fi settings, and integrate permission hints in Settings screen.",
+  "minSupportedVersionCode": 195,
+  "releaseNotes": "Update GitHub workflows: add paths for triggering builds and tests, and remove OtaUpdater implementation",
   "changelog": []
 }

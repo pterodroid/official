@@ -1,11 +1,11 @@
 {
-  "versionCode": 213,
-  "versionName": "1.0.113",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.113/Pterodroid-1.0.113.apk",
-  "sha256": "180f30efc32a4a94cebfdcb5122d0ca17b56c99d75247c71ba882e9735c59424",
-  "sizeBytes": 6563665,
+  "versionCode": 214,
+  "versionName": "1.0.114",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.114/Pterodroid-1.0.114.apk",
+  "sha256": "dfeef2024f52371d83b9e4b4611423e006caf45b9b6a36cf7847447c17dd048f",
+  "sizeBytes": 6563661,
   "publishedAt": "2026-10-27",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Enhance error handling in PteroErrorParser: redact sensitive server details in Unauthorized and Forbidden exceptions; add unit tests for IP restriction and detail redaction scenarios.",
+  "releaseNotes": "Add ClockSkewHint for certificate date errors and JWT time claim handling; update PteroErrorParser and ConsoleViewModel to utilize new functionality; include unit tests for validation scenarios.",
   "changelog": []
 }

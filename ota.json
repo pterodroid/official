@@ -1,11 +1,11 @@
 {
-  "versionCode": 215,
-  "versionName": "1.0.115",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.115/Pterodroid-1.0.115.apk",
-  "sha256": "0f4cf01c2c79844c2005ae9318a46744792117a1405f214c761c89e550a4c78d",
+  "versionCode": 216,
+  "versionName": "1.0.116",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.116/Pterodroid-1.0.116.apk",
+  "sha256": "91da998f62bbff0bea72e810917d5957b47ec344518d946261f8f518f4639b35",
   "sizeBytes": 6567381,
   "publishedAt": "2026-10-27",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Implement activity logging feature: add ActivityLogItem model, API service for server activity, ActivityViewModel, and ActivityScreen UI; include unit tests for parsing and formatting.",
+  "releaseNotes": "Refactor ClockSkewHint: streamline date error detection and add unit tests for certificate validation scenarios",
   "changelog": []
 }

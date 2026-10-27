@@ -1,11 +1,11 @@
 {
-  "versionCode": 191,
-  "versionName": "1.0.91",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.91/Pterodroid-1.0.91.apk",
-  "sha256": "f2c3698ecbacef0cecc4b646e6d77ecd27ad45b91f7de5d2e25d7a787bfe90e8",
+  "versionCode": 192,
+  "versionName": "1.0.92",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.92/Pterodroid-1.0.92.apk",
+  "sha256": "a1a48d01dc49ae90f0726a042b12c07cae7d37244c6543e6911b224e77376f95",
   "sizeBytes": 6434837,
   "publishedAt": "2026-10-27",
-  "minSupportedVersionCode": 191,
-  "releaseNotes": "Implement update check on app foreground and add last check timestamp retrieval",
+  "minSupportedVersionCode": 192,
+  "releaseNotes": "Enhance UpdateScreen: add auto-install feature, improve UI components, and implement changelog display",
   "changelog": []
 }

@@ -1,11 +1,11 @@
 {
-  "versionCode": 225,
-  "versionName": "1.0.125",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.125/Pterodroid-1.0.125.apk",
-  "sha256": "1f80687afc91ef3f3a91a8baa858b2a13cab3b294eaf0b0b2fb472d85617924d",
+  "versionCode": 226,
+  "versionName": "1.0.126",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.126/Pterodroid-1.0.126.apk",
+  "sha256": "66b5175f603313ce4b91d99cd810ca73b79ba82895fbe626968f5c56d77df900",
   "sizeBytes": 6632929,
   "publishedAt": "2026-10-28",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Update console command placeholder text for clarity",
+  "releaseNotes": "Update color scheme and theme definitions for improved UI consistency",
   "changelog": []
 }

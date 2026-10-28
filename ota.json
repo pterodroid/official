@@ -1,11 +1,11 @@
 {
-  "versionCode": 224,
-  "versionName": "1.0.124",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.124/Pterodroid-1.0.124.apk",
-  "sha256": "03d952f15bb7640d341baae5fdc6b03218c643b6d84fd8bcdbe780410e1c01f9",
-  "sizeBytes": 6632917,
+  "versionCode": 225,
+  "versionName": "1.0.125",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.125/Pterodroid-1.0.125.apk",
+  "sha256": "1f80687afc91ef3f3a91a8baa858b2a13cab3b294eaf0b0b2fb472d85617924d",
+  "sizeBytes": 6632929,
   "publishedAt": "2026-10-28",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Refactor ConsoleScreen and TerminalLogFormatter for improved log handling and ANSI parsing",
+  "releaseNotes": "Update console command placeholder text for clarity",
   "changelog": []
 }

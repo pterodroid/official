@@ -1,11 +1,11 @@
 {
-  "versionCode": 227,
-  "versionName": "1.0.127",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.127/Pterodroid-1.0.127.apk",
-  "sha256": "1559b88b02bc0ae5860e561070dbb81a13c0cc264e360f2479897b30cd32ccb6",
+  "versionCode": 228,
+  "versionName": "1.0.128",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.128/Pterodroid-1.0.128.apk",
+  "sha256": "e61f36396f569487243333b97a94fb04fea6e2662a73480d909e000c39fbd18d",
   "sizeBytes": 6632929,
   "publishedAt": "2026-10-28",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Add delay for keyboard open animation and adjust padding in ConsoleScreen layout",
+  "releaseNotes": "Adjust keyboard handling in ConsoleScreen for improved animation and layout responsiveness",
   "changelog": []
 }

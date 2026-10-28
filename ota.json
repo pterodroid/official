@@ -1,11 +1,16 @@
 {
-  "versionCode": 217,
-  "versionName": "1.0.117",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.117/Pterodroid-1.0.117.apk",
-  "sha256": "ace498d755612f2a1a49f3a4611193172cb3b7f883f158f483f10957dd90d46f",
-  "sizeBytes": 6567381,
-  "publishedAt": "2026-10-27",
+  "versionCode": 218,
+  "versionName": "1.0.118",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.118/Pterodroid-1.0.118.apk",
+  "sha256": "420a9b3c3332db8096df4cf35ffae3a5684e3df3736fb066c72e10e5f40316c1",
+  "sizeBytes": 6583765,
+  "publishedAt": "2026-10-28",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Add ActivityScreen navigation and UI elements: include ActivityViewModel, update MainViewModel for new screen, and enhance PteroBottomBar for activity navigation",
-  "changelog": []
+  "releaseNotes": "Enhance ServerDashboardScreen and add DashboardSections:",
+  "changelog": [
+    "Introduced new DashboardSections.kt file containing reusable UI components for the server dashboard.",
+    "Updated ServerDashboardScreen to utilize DashboardHeroCard, DashboardMetricCard, and DashboardShortcutTile for improved layout and functionality.",
+    "Added new icons and buttons for power controls, resource metrics, and navigation shortcuts.",
+    "Implemented confirmation dialogs for server shutdown and kill actions, enhancing user interaction."
+  ]
 }

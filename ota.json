@@ -1,18 +1,11 @@
 {
-  "versionCode": 219,
-  "versionName": "1.0.119",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.119/Pterodroid-1.0.119.apk",
-  "sha256": "af2f67e2598160af90151a6f8122231099f6e777f7b6739795bf77f5b1a80cb2",
+  "versionCode": 220,
+  "versionName": "1.0.120",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.120/Pterodroid-1.0.120.apk",
+  "sha256": "343f17ebbb13c3bd3a340d2743ca0c4515dbd73513752b42bd8697c66071e314",
   "sizeBytes": 6600149,
   "publishedAt": "2026-10-28",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Enhance server dashboard with resource telemetry and history tracking",
-  "changelog": [
-    "Added new telemetry header for resource metrics.",
-    "Introduced animated progress indicators for CPU, Memory, Disk, and Network metrics.",
-    "Implemented history tracking for CPU, Memory, Disk, and Network usage in ServerViewModel.",
-    "Updated DashboardMetricCard to display historical data and dynamic footer messages based on resource usage.",
-    "Refactored shortcut tiles layout for better organization and clarity.",
-    "Improved visual feedback with appropriate icons and colors based on resource load."
-  ]
+  "releaseNotes": "Enhance DashboardUptimeCard with uptime history and restart tracking",
+  "changelog": []
 }

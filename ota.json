@@ -1,11 +1,11 @@
 {
-  "versionCode": 230,
-  "versionName": "1.0.130",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.130/Pterodroid-1.0.130.apk",
-  "sha256": "fa738d20a29c9122d90c04c82499bdcda1561370c617d52e8f2b2f5a95e28dca",
+  "versionCode": 231,
+  "versionName": "1.0.131",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.131/Pterodroid-1.0.131.apk",
+  "sha256": "7f1ee72fc44a2c4b06ec405a0ee5064a59163a89978fc0fc3bd0a31e9258981f",
   "sizeBytes": 6632925,
   "publishedAt": "2026-10-28",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Refactor padding in ConsoleScreen to use Spacing constants for improved layout consistency",
+  "releaseNotes": "Add savedEditorContent to FilesViewModel and integrate with FileEditorScreen for tracking unsaved changes",
   "changelog": []
 }

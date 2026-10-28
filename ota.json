@@ -1,20 +1,11 @@
 {
-  "versionCode": 222,
-  "versionName": "1.0.122",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.122/Pterodroid-1.0.122.apk",
-  "sha256": "5fb63b60aa814e720e48b3247eddeb0e90848df95b47dad6be43e5ce6a2c0d6a",
-  "sizeBytes": 6600149,
+  "versionCode": 223,
+  "versionName": "1.0.123",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.123/Pterodroid-1.0.123.apk",
+  "sha256": "907fdf2c68ac47e0f0b710fc155973af3719e8c85ea83a412637b2f5658f0edb",
+  "sizeBytes": 6616537,
   "publishedAt": "2026-10-28",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Redesign Console screen UI with new layout and functionality",
-  "changelog": [
-    "Replaced entire ConsoleScreen.kt file with a new design.",
-    "Introduced a hero card displaying server status, CPU, memory, and disk usage.",
-    "Added toggle cards for Auto Scroll and Prevent Sleep features.",
-    "Implemented filter chips for log visibility control.",
-    "Enhanced terminal log display with improved formatting and filtering.",
-    "Integrated quick commands for efficient command execution.",
-    "Maintained existing functionality for command history navigation, pull-to-refresh, and confirmation dialogs for power actions.",
-    "Ensured compatibility with existing unit tests and build configurations."
-  ]
+  "releaseNotes": "Enhance ConsoleScreen with animations, server switcher, and log management features",
+  "changelog": []
 }

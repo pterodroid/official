@@ -1,16 +1,18 @@
 {
-  "versionCode": 218,
-  "versionName": "1.0.118",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.118/Pterodroid-1.0.118.apk",
-  "sha256": "420a9b3c3332db8096df4cf35ffae3a5684e3df3736fb066c72e10e5f40316c1",
-  "sizeBytes": 6583765,
+  "versionCode": 219,
+  "versionName": "1.0.119",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.119/Pterodroid-1.0.119.apk",
+  "sha256": "af2f67e2598160af90151a6f8122231099f6e777f7b6739795bf77f5b1a80cb2",
+  "sizeBytes": 6600149,
   "publishedAt": "2026-10-28",
   "minSupportedVersionCode": 199,
-  "releaseNotes": "Enhance ServerDashboardScreen and add DashboardSections:",
+  "releaseNotes": "Enhance server dashboard with resource telemetry and history tracking",
   "changelog": [
-    "Introduced new DashboardSections.kt file containing reusable UI components for the server dashboard.",
-    "Updated ServerDashboardScreen to utilize DashboardHeroCard, DashboardMetricCard, and DashboardShortcutTile for improved layout and functionality.",
-    "Added new icons and buttons for power controls, resource metrics, and navigation shortcuts.",
-    "Implemented confirmation dialogs for server shutdown and kill actions, enhancing user interaction."
+    "Added new telemetry header for resource metrics.",
+    "Introduced animated progress indicators for CPU, Memory, Disk, and Network metrics.",
+    "Implemented history tracking for CPU, Memory, Disk, and Network usage in ServerViewModel.",
+    "Updated DashboardMetricCard to display historical data and dynamic footer messages based on resource usage.",
+    "Refactored shortcut tiles layout for better organization and clarity.",
+    "Improved visual feedback with appropriate icons and colors based on resource load."
   ]
 }

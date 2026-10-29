@@ -2,9 +2,29 @@
   "schemaVersion": 1,
   "configVersion": 1,
   "minimumAppVersionCode": 0,
-  "dashboardSectionOrder": ["resources", "uptime", "players", "server_details", "shortcuts"],
-  "shortcutOrder": ["console", "backups", "files", "schedules", "activity", "network", "startup", "settings"],
-  "navigationOrder": ["dashboard", "console", "files", "settings"],
+  "dashboardSectionOrder": [
+    "resources",
+    "uptime",
+    "players",
+    "server_details",
+    "shortcuts"
+  ],
+  "shortcutOrder": [
+    "console",
+    "backups",
+    "files",
+    "schedules",
+    "activity",
+    "network",
+    "startup",
+    "settings"
+  ],
+  "navigationOrder": [
+    "dashboard",
+    "console",
+    "files",
+    "settings"
+  ],
   "visibility": {
     "players": false,
     "server_details": true,

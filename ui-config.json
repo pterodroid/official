@@ -3,10 +3,10 @@
   "configVersion": 1,
   "minimumAppVersionCode": 0,
   "dashboardSectionOrder": ["resources", "uptime", "players", "server_details", "shortcuts"],
-  "shortcutOrder": ["console", "files", "backups", "schedules", "activity", "network", "startup", "settings"],
+  "shortcutOrder": ["console", "backups", "files", "schedules", "activity", "network", "startup", "settings"],
   "navigationOrder": ["dashboard", "console", "files", "settings"],
   "visibility": {
-    "players": false,
+    "players": true,
     "server_details": true,
     "shortcuts": true,
     "announcement": false

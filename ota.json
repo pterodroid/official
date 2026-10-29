@@ -1,11 +1,11 @@
 {
-  "versionCode": 234,
-  "versionName": "1.0.134",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.134/Pterodroid-1.0.134.apk",
-  "sha256": "dbf3837ec1d816ba2eb32451289eacf4840da1265328d88e22770cb4e45c63ce",
-  "sizeBytes": 6632925,
+  "versionCode": 235,
+  "versionName": "1.0.135",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.135/Pterodroid-1.0.135.apk",
+  "sha256": "9c76072b7d8ffb3f2ef6f145d6fc7658b2bb939b1f04d520e44d4acb89126fb0",
+  "sizeBytes": 6649313,
   "publishedAt": "2026-10-29",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Integrate remote UI configuration for dynamic dashboard section ordering",
+  "releaseNotes": "Add remote UI configuration support for dashboard and shortcuts",
   "changelog": []
 }

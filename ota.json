@@ -1,11 +1,19 @@
 {
-  "versionCode": 246,
-  "versionName": "1.0.146",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.146/Pterodroid-1.0.146.apk",
-  "sha256": "2bb007df3d2841b27d99e13ad6a98eff4d0c80fc6f9464cb14eab59692dbaec0",
-  "sizeBytes": 6713597,
+  "versionCode": 247,
+  "versionName": "1.0.147",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.147/Pterodroid-1.0.147.apk",
+  "sha256": "fc4133caf92b2e3c97330466fcf9581da5ab191bc4c71a7966a263264da42017",
+  "sizeBytes": 6754761,
   "publishedAt": "2026-10-29",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add network management functionality with allocation handling and UI updates",
-  "changelog": []
+  "releaseNotes": "Add startup management features including fetching and updating startup variables and Docker images",
+  "changelog": [
+    "Implemented API service methods for retrieving startup configuration and updating startup variables and Docker images.",
+    "Created data models for handling startup responses and requests.",
+    "Developed a new StartupViewModel to manage startup data and operations.",
+    "Added a StartupScreen UI to display and interact with startup settings.",
+    "Introduced StartupRules utility for parsing variable rules.",
+    "Added unit tests for startup response parsing and rules validation.",
+    "Updated navigation and UI components to integrate the new startup features."
+  ]
 }

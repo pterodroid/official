@@ -1,11 +1,11 @@
 {
-  "versionCode": 241,
-  "versionName": "1.0.141",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.141/Pterodroid-1.0.141.apk",
-  "sha256": "f14596dbfbf6082b1d49aeec7b19aa1d5024dcb348be2d1b073bd87640ad3b0e",
-  "sizeBytes": 6649297,
+  "versionCode": 242,
+  "versionName": "1.0.142",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.142/Pterodroid-1.0.142.apk",
+  "sha256": "9c2fd52afee1b949e9cf6f133a8bac27d1461e573d9aeb8b4a0c443e9a8e9da5",
+  "sizeBytes": 6632913,
   "publishedAt": "2026-10-29",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add pageTitle parameter to various screens for improved navigation context",
+  "releaseNotes": "Implement pull-to-refresh functionality in ActivityScreen and enhance ActivityViewModel with refresh logic",
   "changelog": []
 }

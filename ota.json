@@ -1,11 +1,11 @@
 {
-  "versionCode": 239,
-  "versionName": "1.0.139",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.139/Pterodroid-1.0.139.apk",
-  "sha256": "6de95f57135fad3dd7265e1c551f1fa2453c9f22b8d76daba1bfb2d947811424",
-  "sizeBytes": 6632913,
+  "versionCode": 240,
+  "versionName": "1.0.140",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.140/Pterodroid-1.0.140.apk",
+  "sha256": "a670c80588bce6211a3f50fe857b5ef0c5d51bf6afffde82205099bbe87fabc6",
+  "sizeBytes": 6649297,
   "publishedAt": "2026-10-29",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance validation tests for UI configuration by checking item order and size",
+  "releaseNotes": "Implement pull-up gesture functionality for lazy lists and enhance navigation drawer in ServerListScreen",
   "changelog": []
 }

@@ -1,11 +1,11 @@
 {
-  "versionCode": 236,
-  "versionName": "1.0.136",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.136/Pterodroid-1.0.136.apk",
-  "sha256": "59a05a720912c811b165c0dac5d947c452d74da0045de09a8d0324eb5c97c5b5",
+  "versionCode": 237,
+  "versionName": "1.0.137",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.137/Pterodroid-1.0.137.apk",
+  "sha256": "cfddd4a2d18a8d639fc1acc399ee6bf440cf99e480ae56fd9dfaf48279096246",
   "sizeBytes": 6649313,
   "publishedAt": "2026-10-29",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refresh remote UI configuration when app returns to foreground and update UI config visibility settings",
+  "releaseNotes": "Update splash screen status message and version display logic",
   "changelog": []
 }

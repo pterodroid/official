@@ -1,19 +1,11 @@
 {
-  "versionCode": 245,
-  "versionName": "1.0.145",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.145/Pterodroid-1.0.145.apk",
-  "sha256": "c4963a18d3c5a0666b167958ec954e78f21739e54aebaa18e1d10c71465a658b",
-  "sizeBytes": 6703189,
+  "versionCode": 246,
+  "versionName": "1.0.146",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.146/Pterodroid-1.0.146.apk",
+  "sha256": "2bb007df3d2841b27d99e13ad6a98eff4d0c80fc6f9464cb14eab59692dbaec0",
+  "sizeBytes": 6713597,
   "publishedAt": "2026-10-29",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add SchedulesScreen with schedule and task management functionality",
-  "changelog": [
-    "Implemented SchedulesScreen for displaying, creating, editing, and deleting schedules and tasks.",
-    "Added ScheduleCard and TaskRow components for better UI representation.",
-    "Integrated PullToRefresh for refreshing schedule data.",
-    "Included dialogs for schedule and task creation/editing.",
-    "Added confirmation dialogs for deletion of schedules and tasks.",
-    "Created SchedulesParsingUnitTest to validate JSON parsing for schedules and tasks.",
-    "Added tests for schedule list parsing, single schedule item parsing, and serialization of ScheduleRequest and ScheduleTaskRequest."
-  ]
+  "releaseNotes": "Add network management functionality with allocation handling and UI updates",
+  "changelog": []
 }

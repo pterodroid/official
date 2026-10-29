@@ -11,8 +11,8 @@
   ],
   "shortcutOrder": [
     "console",
-    "backups",
     "files",
+    "backups",
     "schedules",
     "activity",
     "network",

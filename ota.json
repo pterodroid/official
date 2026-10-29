@@ -1,11 +1,11 @@
 {
-  "versionCode": 232,
-  "versionName": "1.0.132",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.132/Pterodroid-1.0.132.apk",
-  "sha256": "c23a29ff66a7c0dbf2d173762beda40921fe8bebb64bf502f0c0740ac16ff076",
-  "sizeBytes": 6632929,
+  "versionCode": 233,
+  "versionName": "1.0.133",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.133/Pterodroid-1.0.133.apk",
+  "sha256": "bb05df02c74f86c11abfb2932317d8ca7b0a80e264b08edae30088ea53bb30ab",
+  "sizeBytes": 6632925,
   "publishedAt": "2026-10-29",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add Remote UI configuration and validation classes with JSON schema",
+  "releaseNotes": "Integrate remote UI configuration into navigation components for dynamic ordering",
   "changelog": []
 }

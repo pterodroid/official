@@ -6,7 +6,7 @@
   "shortcutOrder": ["console", "backups", "files", "schedules", "activity", "network", "startup", "settings"],
   "navigationOrder": ["dashboard", "console", "files", "settings"],
   "visibility": {
-    "players": true,
+    "players": false,
     "server_details": true,
     "shortcuts": true,
     "announcement": false

@@ -1,11 +1,11 @@
 {
-  "versionCode": 256,
-  "versionName": "1.0.156",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.156/Pterodroid-1.0.156.apk",
-  "sha256": "27a750ed2540ffeb2df1692eb2da1d007148dd96d918f4c698ed7306de54a6cd",
-  "sizeBytes": 6771585,
+  "versionCode": 257,
+  "versionName": "1.0.157",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.157/Pterodroid-1.0.157.apk",
+  "sha256": "3aa684e3a625c8ba744502a051fc1da0e4f7b76927232b219f9a81f5d2a28ef9",
+  "sizeBytes": 6775113,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor PteroAppNavigation and MainViewModel to streamline navigation logic and remove unused AddPanelSheet component",
+  "releaseNotes": "Implement ServerTabs component for improved navigation and add new string resources for server tabs",
   "changelog": []
 }

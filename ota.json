@@ -1,11 +1,11 @@
 {
-  "versionCode": 271,
-  "versionName": "1.0.171",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.171/Pterodroid-1.0.171.apk",
-  "sha256": "6af73d30da11e7947582fe65b19a56a399b66eed5d346cebc83655d88609d969",
-  "sizeBytes": 6791481,
+  "versionCode": 272,
+  "versionName": "1.0.172",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.172/Pterodroid-1.0.172.apk",
+  "sha256": "5d73cc38da5c205ec05b2f78dddde8cdbf0c20bd8c118961c1fe45a3544b5359",
+  "sizeBytes": 6808837,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update color usage in AlertsScreen and SetupCredentialsScreen for improved UI consistency; adjust dark theme colors in Color.kt",
+  "releaseNotes": "Implement Databases feature: add DatabasesViewModel, DatabasesScreen, and API integration; update navigation and UI components for database management",
   "changelog": []
 }

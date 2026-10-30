@@ -1,11 +1,11 @@
 {
-  "versionCode": 266,
-  "versionName": "1.0.166",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.166/Pterodroid-1.0.166.apk",
-  "sha256": "8e07d1cb670adbc6e769f4f7821b2ab826d43a59a8bbfaeb169de2c3128ff2b9",
+  "versionCode": 267,
+  "versionName": "1.0.167",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.167/Pterodroid-1.0.167.apk",
+  "sha256": "9fb811363bdd150f2ae6a7e7709b8cfa1a8bcf872f8ee5e4069576500b455a32",
   "sizeBytes": 6791485,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor PteroDropdown to include submenu functionality and update color palette for dark theme",
+  "releaseNotes": "Refactor ServerListScreen to enhance batch action UI with new FilterChip components and improve layout; update color palette in Color.kt for dark theme",
   "changelog": []
 }

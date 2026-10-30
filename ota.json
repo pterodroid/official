@@ -1,11 +1,11 @@
 {
-  "versionCode": 251,
-  "versionName": "1.0.151",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.151/Pterodroid-1.0.151.apk",
-  "sha256": "0cc7e4d955415b833aa000b362d7b6fdc951587431f879ea87f60d84e1c3b84f",
-  "sizeBytes": 6771581,
+  "versionCode": 252,
+  "versionName": "1.0.152",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.152/Pterodroid-1.0.152.apk",
+  "sha256": "8220049d5378dd2d9580b41b441b9c0860ac85038575ac57516d7e452f294350",
+  "sizeBytes": 6771585,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor backup creation logic to enable/disable actions based on backup limits",
+  "releaseNotes": "Enhance PullUpIndicator and ServerListScreen with pull distance tracking and completion icon",
   "changelog": []
 }

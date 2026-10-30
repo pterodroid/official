@@ -1,11 +1,11 @@
 {
-  "versionCode": 250,
-  "versionName": "1.0.150",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.150/Pterodroid-1.0.150.apk",
-  "sha256": "6317f3bea82268f8ab57f61a607b4349b92247623681bb4bbbe25934247c0769",
-  "sizeBytes": 6771585,
+  "versionCode": 251,
+  "versionName": "1.0.151",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.151/Pterodroid-1.0.151.apk",
+  "sha256": "0cc7e4d955415b833aa000b362d7b6fdc951587431f879ea87f60d84e1c3b84f",
+  "sizeBytes": 6771581,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance ServersDrawerContent with user profile display and account settings navigation",
+  "releaseNotes": "Refactor backup creation logic to enable/disable actions based on backup limits",
   "changelog": []
 }

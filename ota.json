@@ -1,11 +1,15 @@
 {
-  "versionCode": 272,
-  "versionName": "1.0.172",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.172/Pterodroid-1.0.172.apk",
-  "sha256": "5d73cc38da5c205ec05b2f78dddde8cdbf0c20bd8c118961c1fe45a3544b5359",
-  "sizeBytes": 6808837,
+  "versionCode": 273,
+  "versionName": "1.0.173",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.173/Pterodroid-1.0.173.apk",
+  "sha256": "1d8b6f355c83633bd2ca995a048aa5835e722b9a790de87f75623a871f8b1a19",
+  "sizeBytes": 6879857,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement Databases feature: add DatabasesViewModel, DatabasesScreen, and API integration; update navigation and UI components for database management",
-  "changelog": []
+  "releaseNotes": "Add localization configuration and completeness unit tests",
+  "changelog": [
+    "Created a new XML file for locale configuration supporting English and Arabic.",
+    "Implemented a unit test to ensure completeness of localization between English and Arabic strings and plurals.",
+    "The test checks for missing translations, empty translations, and format specifier consistency."
+  ]
 }

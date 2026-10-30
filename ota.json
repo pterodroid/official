@@ -1,11 +1,11 @@
 {
-  "versionCode": 264,
-  "versionName": "1.0.164",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.164/Pterodroid-1.0.164.apk",
-  "sha256": "00ec684b16ff6a53df3e71527c9d1f6bca0d32ded583266798a509d7212c9f07",
-  "sizeBytes": 6791481,
+  "versionCode": 265,
+  "versionName": "1.0.165",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.165/Pterodroid-1.0.165.apk",
+  "sha256": "76ae2841be515e8424de152cffc6c6e4dc998d0a10720e1aae68531f65b6ad4f",
+  "sizeBytes": 6791485,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance batch action UI in ServerListScreen with new FilterChip components and improved layout",
+  "releaseNotes": "Update selected servers display and adjust font size in navigation drawer items",
   "changelog": []
 }

@@ -1,11 +1,11 @@
 {
-  "versionCode": 260,
-  "versionName": "1.0.160",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.160/Pterodroid-1.0.160.apk",
-  "sha256": "eb126926c454ad2e04d06bdacbdf30b034a2430fd64742edf64222d61baaae4a",
+  "versionCode": 261,
+  "versionName": "1.0.161",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.161/Pterodroid-1.0.161.apk",
+  "sha256": "75495f8cefbbc426831ca75d3cfa89737abfc3ff3d73642f599d39e382f61df4",
   "sizeBytes": 6775097,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor ServerListScreen to enhance search functionality and improve animation transitions in the app bar",
+  "releaseNotes": "Add animation to server cards and pull-up hint in ServerListScreen",
   "changelog": []
 }

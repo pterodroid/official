@@ -1,11 +1,11 @@
 {
-  "versionCode": 265,
-  "versionName": "1.0.165",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.165/Pterodroid-1.0.165.apk",
-  "sha256": "76ae2841be515e8424de152cffc6c6e4dc998d0a10720e1aae68531f65b6ad4f",
+  "versionCode": 266,
+  "versionName": "1.0.166",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.166/Pterodroid-1.0.166.apk",
+  "sha256": "8e07d1cb670adbc6e769f4f7821b2ab826d43a59a8bbfaeb169de2c3128ff2b9",
   "sizeBytes": 6791485,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update selected servers display and adjust font size in navigation drawer items",
+  "releaseNotes": "Refactor PteroDropdown to include submenu functionality and update color palette for dark theme",
   "changelog": []
 }

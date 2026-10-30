@@ -1,11 +1,11 @@
 {
-  "versionCode": 261,
-  "versionName": "1.0.161",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.161/Pterodroid-1.0.161.apk",
-  "sha256": "75495f8cefbbc426831ca75d3cfa89737abfc3ff3d73642f599d39e382f61df4",
-  "sizeBytes": 6775097,
+  "versionCode": 262,
+  "versionName": "1.0.162",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.162/Pterodroid-1.0.162.apk",
+  "sha256": "28501a70a7b32c8bac3f04dc466711f8d2516ff7749f40b78b499eada9615518",
+  "sizeBytes": 6775101,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add animation to server cards and pull-up hint in ServerListScreen",
+  "releaseNotes": "Add navigation options for connections, diagnostics, and updates in ServerListScreen",
   "changelog": []
 }

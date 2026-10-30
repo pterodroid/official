@@ -1,11 +1,11 @@
 {
-  "versionCode": 257,
-  "versionName": "1.0.157",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.157/Pterodroid-1.0.157.apk",
-  "sha256": "3aa684e3a625c8ba744502a051fc1da0e4f7b76927232b219f9a81f5d2a28ef9",
-  "sizeBytes": 6775113,
+  "versionCode": 258,
+  "versionName": "1.0.158",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.158/Pterodroid-1.0.158.apk",
+  "sha256": "f148b8da76489f571deff5c9cacb5b96d413540613613402651ee2aed81adb06",
+  "sizeBytes": 6775117,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement ServerTabs component for improved navigation and add new string resources for server tabs",
+  "releaseNotes": "Add filter functionality to ServerListScreen and improve state management",
   "changelog": []
 }

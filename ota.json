@@ -1,11 +1,11 @@
 {
-  "versionCode": 249,
-  "versionName": "1.0.149",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.149/Pterodroid-1.0.149.apk",
-  "sha256": "71e7fbc73e56ca5980d4dc8970ecd19af470f0d50f379953f24280a277d12103",
+  "versionCode": 250,
+  "versionName": "1.0.150",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.150/Pterodroid-1.0.150.apk",
+  "sha256": "6317f3bea82268f8ab57f61a607b4349b92247623681bb4bbbe25934247c0769",
   "sizeBytes": 6771585,
-  "publishedAt": "2026-10-29",
+  "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update PteroAppBar subtitle style to use MaterialTheme typography",
+  "releaseNotes": "Enhance ServersDrawerContent with user profile display and account settings navigation",
   "changelog": []
 }

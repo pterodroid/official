@@ -1,11 +1,11 @@
 {
-  "versionCode": 269,
-  "versionName": "1.0.169",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.169/Pterodroid-1.0.169.apk",
-  "sha256": "e173e9d2d73e39177f9d5afd947cef6acfdba19a383f3339c3b92f9b6975870a",
+  "versionCode": 270,
+  "versionName": "1.0.170",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.170/Pterodroid-1.0.170.apk",
+  "sha256": "3b21efd4cf125c29dde23383a475684ed9e96b02f262df4f19fdb1711de79627",
   "sizeBytes": 6791485,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor color usage in DashboardSections and ServerListScreen for improved UI consistency; update dark theme colors in Color.kt and Theme.kt for better visual hierarchy",
+  "releaseNotes": "Update dark theme colors in TerminalLogFormatter and Color.kt for improved visual consistency",
   "changelog": []
 }

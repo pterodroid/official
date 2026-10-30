@@ -1,11 +1,11 @@
 {
-  "versionCode": 262,
-  "versionName": "1.0.162",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.162/Pterodroid-1.0.162.apk",
-  "sha256": "28501a70a7b32c8bac3f04dc466711f8d2516ff7749f40b78b499eada9615518",
-  "sizeBytes": 6775101,
+  "versionCode": 263,
+  "versionName": "1.0.163",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.163/Pterodroid-1.0.163.apk",
+  "sha256": "17b8ab6bada1e8049b293f82412df5d7afa86c9645f46020201bf5dfd78ab942",
+  "sizeBytes": 6791485,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add navigation options for connections, diagnostics, and updates in ServerListScreen",
+  "releaseNotes": "Implement batch server actions in ServerListScreen and add AboutPterodroidDialog component",
   "changelog": []
 }

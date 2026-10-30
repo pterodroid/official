@@ -1,11 +1,11 @@
 {
-  "versionCode": 270,
-  "versionName": "1.0.170",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.170/Pterodroid-1.0.170.apk",
-  "sha256": "3b21efd4cf125c29dde23383a475684ed9e96b02f262df4f19fdb1711de79627",
-  "sizeBytes": 6791485,
+  "versionCode": 271,
+  "versionName": "1.0.171",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.171/Pterodroid-1.0.171.apk",
+  "sha256": "6af73d30da11e7947582fe65b19a56a399b66eed5d346cebc83655d88609d969",
+  "sizeBytes": 6791481,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update dark theme colors in TerminalLogFormatter and Color.kt for improved visual consistency",
+  "releaseNotes": "Update color usage in AlertsScreen and SetupCredentialsScreen for improved UI consistency; adjust dark theme colors in Color.kt",
   "changelog": []
 }

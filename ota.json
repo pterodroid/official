@@ -1,11 +1,11 @@
 {
-  "versionCode": 263,
-  "versionName": "1.0.163",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.163/Pterodroid-1.0.163.apk",
-  "sha256": "17b8ab6bada1e8049b293f82412df5d7afa86c9645f46020201bf5dfd78ab942",
-  "sizeBytes": 6791485,
+  "versionCode": 264,
+  "versionName": "1.0.164",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.164/Pterodroid-1.0.164.apk",
+  "sha256": "00ec684b16ff6a53df3e71527c9d1f6bca0d32ded583266798a509d7212c9f07",
+  "sizeBytes": 6791481,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement batch server actions in ServerListScreen and add AboutPterodroidDialog component",
+  "releaseNotes": "Enhance batch action UI in ServerListScreen with new FilterChip components and improved layout",
   "changelog": []
 }

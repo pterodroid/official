@@ -1,11 +1,11 @@
 {
-  "versionCode": 259,
-  "versionName": "1.0.159",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.159/Pterodroid-1.0.159.apk",
-  "sha256": "4650b640646a971bb01988cc7eecebcabf9fc7971070024fc13aea6ad145991b",
-  "sizeBytes": 6775101,
+  "versionCode": 260,
+  "versionName": "1.0.160",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.160/Pterodroid-1.0.160.apk",
+  "sha256": "eb126926c454ad2e04d06bdacbdf30b034a2430fd64742edf64222d61baaae4a",
+  "sizeBytes": 6775097,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add move functionality for selected files in FileManagerScreen and update string resource for server tab",
+  "releaseNotes": "Refactor ServerListScreen to enhance search functionality and improve animation transitions in the app bar",
   "changelog": []
 }

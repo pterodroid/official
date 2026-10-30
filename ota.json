@@ -1,19 +1,11 @@
 {
-  "versionCode": 274,
-  "versionName": "1.0.174",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.174/Pterodroid-1.0.174.apk",
-  "sha256": "f690b824f06508c5f93745002075335e879682b6030c9d0e42e632df47db3cc6",
-  "sizeBytes": 6896241,
+  "versionCode": 275,
+  "versionName": "1.0.175",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.175/Pterodroid-1.0.175.apk",
+  "sha256": "345ea39ef739ffe425ad5eb7d382a94b1fe9c13c5b2291f097c30e8ecda952e0",
+  "sizeBytes": 6912625,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Implement in-app browser functionality",
-  "changelog": [
-    "Added BrowserScreen to handle web content within the app.",
-    "Introduced BrowserUrlPolicy for URL validation and normalization.",
-    "Updated MainViewModel to manage browser requests and navigation.",
-    "Integrated in-app browser settings in the SettingsScreen.",
-    "Added functionality to open links in the in-app browser or external browser based on user preference.",
-    "Enhanced AboutPterodroidDialog and AccountSettingsSheet to utilize the new browser functionality.",
-    "Implemented unit tests for BrowserUrlPolicy to ensure URL handling correctness."
-  ]
+  "releaseNotes": "feat: Implement language synchronization policy and update language handling in MainActivity and ViewModel",
+  "changelog": []
 }

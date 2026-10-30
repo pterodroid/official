@@ -1,11 +1,11 @@
 {
-  "versionCode": 254,
-  "versionName": "1.0.154",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.154/Pterodroid-1.0.154.apk",
-  "sha256": "a7f4fb7b4ee34ba94ea80b26cef11dde8086b01f1e83bd5843cee8922d9c13b8",
-  "sizeBytes": 6771581,
+  "versionCode": 256,
+  "versionName": "1.0.156",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.156/Pterodroid-1.0.156.apk",
+  "sha256": "27a750ed2540ffeb2df1692eb2da1d007148dd96d918f4c698ed7306de54a6cd",
+  "sizeBytes": 6771585,
   "publishedAt": "2026-10-30",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance PullUpIndicator with spinning icon and pull distance tracking in ActivityScreen",
+  "releaseNotes": "Refactor PteroAppNavigation and MainViewModel to streamline navigation logic and remove unused AddPanelSheet component",
   "changelog": []
 }

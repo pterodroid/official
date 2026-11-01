@@ -1,11 +1,11 @@
 {
-  "versionCode": 280,
-  "versionName": "1.0.180",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.180/Pterodroid-1.0.180.apk",
-  "sha256": "cc65c6f885db901b28b18d89891d0924c9356b79f144631a9d06233484e55827",
-  "sizeBytes": 6913157,
+  "versionCode": 281,
+  "versionName": "1.0.181",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.181/Pterodroid-1.0.181.apk",
+  "sha256": "b2c88b0ffdda043258748dadf24467bc3e4747db5faa26481c6350e91b4c4968",
+  "sizeBytes": 6913181,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Enhance server loading state management and add skeleton loading animations in ServerListScreen",
+  "releaseNotes": "Enhance dialog layouts with vertical scrolling and system window adjustments",
   "changelog": []
 }

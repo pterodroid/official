@@ -1,11 +1,11 @@
 {
-  "versionCode": 277,
-  "versionName": "1.0.177",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.177/Pterodroid-1.0.177.apk",
-  "sha256": "91ae95400c01936ce9480d24954add4103e13c320d855c220f3ab1ff68e2afdb",
+  "versionCode": 278,
+  "versionName": "1.0.178",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.178/Pterodroid-1.0.178.apk",
+  "sha256": "e66f9226ba9d5909f2206829b1870319baed1ad92d6625e667ae4d86a8271791",
   "sizeBytes": 6913161,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update color themes and improve UI components for better visual consistency",
+  "releaseNotes": "Implement server page swipe navigation and enhance screen transitions",
   "changelog": []
 }

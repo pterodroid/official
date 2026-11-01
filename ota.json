@@ -1,11 +1,11 @@
 {
-  "versionCode": 281,
-  "versionName": "1.0.181",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.181/Pterodroid-1.0.181.apk",
-  "sha256": "b2c88b0ffdda043258748dadf24467bc3e4747db5faa26481c6350e91b4c4968",
+  "versionCode": 282,
+  "versionName": "1.0.182",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.182/Pterodroid-1.0.182.apk",
+  "sha256": "220e656a7619e1ec025ef152b727a8b0cb4dad470e05a1e26ad0716c2a1da163",
   "sizeBytes": 6913181,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance dialog layouts with vertical scrolling and system window adjustments",
+  "releaseNotes": "feat: Implement ServerPageScaffold for improved server page navigation and transitions",
   "changelog": []
 }

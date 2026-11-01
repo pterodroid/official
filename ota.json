@@ -1,21 +1,18 @@
 {
-  "versionCode": 285,
-  "versionName": "1.0.185",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.185/Pterodroid-1.0.185.apk",
-  "sha256": "61251a3aa29d977688611d54ac4415f8a4d9207e402bc0d4f9314e59176a503b",
-  "sizeBytes": 6966329,
+  "versionCode": 286,
+  "versionName": "1.0.186",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.186/Pterodroid-1.0.186.apk",
+  "sha256": "08626b740e068123d3f73fcd81fdecfc7516d42dcf2d5eec1938770a66ddbf88",
+  "sizeBytes": 6982709,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor account management and backup features",
+  "releaseNotes": "Refactor ConsoleScreen and add ConsoleSettingsScreen",
   "changelog": [
-    "Updated the ArrowProgress function to enhance the end angle calculation for smoother animations.",
-    "Modified the AboutScreen layout for improved spacing and alignment.",
-    "Streamlined the AccountScreen by removing unused dialogs and simplifying the UI for account actions.",
-    "Introduced the ExportImportScreen for managing backup and restore operations with improved user experience.",
-    "Added a new PanelIdentity utility to derive unique identity keys for panel connections.",
-    "Implemented delete account functionality in SecurityPrivacyScreen with confirmation dialog.",
-    "Updated theme management to use a more dynamic color scheme.",
-    "Added Arabic and English strings for backup file selection.",
-    "Created unit tests for panel identity key generation to ensure uniqueness and correctness."
+    "Removed toggle cards for auto scroll and keep screen on from ConsoleScreen.",
+    "Introduced ConsoleSettingsScreen to manage console settings with switches for auto scroll and prevent sleep.",
+    "Updated ServerListScreen to include sorting options for server display.",
+    "Added a navigation card for Console settings in SettingsScreen.",
+    "Modified color scheme to use a new Slate palette instead of Google blue.",
+    "Enhanced theme handling to support AMOLED mode."
   ]
 }

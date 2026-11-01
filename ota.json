@@ -1,11 +1,11 @@
 {
-  "versionCode": 276,
-  "versionName": "1.0.176",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.176/Pterodroid-1.0.176.apk",
-  "sha256": "49596d2d21958b1f1dc45151d39935e99922aaf74b3f290974c97aa901c359a7",
+  "versionCode": 277,
+  "versionName": "1.0.177",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.177/Pterodroid-1.0.177.apk",
+  "sha256": "91ae95400c01936ce9480d24954add4103e13c320d855c220f3ab1ff68e2afdb",
   "sizeBytes": 6913161,
-  "publishedAt": "2026-10-30",
+  "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement language switching functionality with overlay and background handling",
+  "releaseNotes": "Update color themes and improve UI components for better visual consistency",
   "changelog": []
 }

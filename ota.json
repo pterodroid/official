@@ -1,18 +1,21 @@
 {
-  "versionCode": 284,
-  "versionName": "1.0.184",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.184/Pterodroid-1.0.184.apk",
-  "sha256": "784fce1de3a0e98e17fe58e3cee969d700c9ea0ea5e52ac59c864b024840f35a",
-  "sizeBytes": 6965821,
+  "versionCode": 285,
+  "versionName": "1.0.185",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.185/Pterodroid-1.0.185.apk",
+  "sha256": "61251a3aa29d977688611d54ac4415f8a4d9207e402bc0d4f9314e59176a503b",
+  "sizeBytes": 6966329,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Add About, Appearance, and Updates screens with localization support",
+  "releaseNotes": "Refactor account management and backup features",
   "changelog": [
-    "Implemented AboutScreen with developer information and Discord community link.",
-    "Created AppearanceScreen for theme and language selection, including haptic feedback settings.",
-    "Developed UpdatesScreen for managing update preferences and permissions.",
-    "Added new strings for localization in Arabic and English.",
-    "Introduced a Discord icon for community access.",
-    "Added unit tests for panel sync retry logic."
+    "Updated the ArrowProgress function to enhance the end angle calculation for smoother animations.",
+    "Modified the AboutScreen layout for improved spacing and alignment.",
+    "Streamlined the AccountScreen by removing unused dialogs and simplifying the UI for account actions.",
+    "Introduced the ExportImportScreen for managing backup and restore operations with improved user experience.",
+    "Added a new PanelIdentity utility to derive unique identity keys for panel connections.",
+    "Implemented delete account functionality in SecurityPrivacyScreen with confirmation dialog.",
+    "Updated theme management to use a more dynamic color scheme.",
+    "Added Arabic and English strings for backup file selection.",
+    "Created unit tests for panel identity key generation to ensure uniqueness and correctness."
   ]
 }

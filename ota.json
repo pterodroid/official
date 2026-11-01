@@ -1,11 +1,20 @@
 {
-  "versionCode": 282,
-  "versionName": "1.0.182",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.182/Pterodroid-1.0.182.apk",
-  "sha256": "220e656a7619e1ec025ef152b727a8b0cb4dad470e05a1e26ad0716c2a1da163",
-  "sizeBytes": 6913181,
+  "versionCode": 283,
+  "versionName": "1.0.183",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.183/Pterodroid-1.0.183.apk",
+  "sha256": "f1e5f5fff374735046bc42c9a0c3e697c243eaaac4c9ccd743f4e17f3af9ec09",
+  "sizeBytes": 6951501,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Implement ServerPageScaffold for improved server page navigation and transitions",
-  "changelog": []
+  "releaseNotes": "Implement backup and device management features",
+  "changelog": [
+    "Add BackupModels for handling backup data structures.",
+    "Introduce DeviceIdentity for generating and storing unique device IDs.",
+    "Create DevicesScreen for displaying connected devices with options to remove them.",
+    "Implement DataBackup for exporting and importing user data securely.",
+    "Add unit tests for backup functionality to ensure data integrity and security.",
+    "Update UI components to reflect new features and improve user experience.",
+    "Integrate haptic feedback for various user interactions.",
+    "Refactor settings to move user logout functionality to a dedicated AccountScreen."
+  ]
 }

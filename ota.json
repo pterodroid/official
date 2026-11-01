@@ -1,18 +1,17 @@
 {
-  "versionCode": 286,
-  "versionName": "1.0.186",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.186/Pterodroid-1.0.186.apk",
-  "sha256": "08626b740e068123d3f73fcd81fdecfc7516d42dcf2d5eec1938770a66ddbf88",
-  "sizeBytes": 6982709,
+  "versionCode": 287,
+  "versionName": "1.0.187",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.187/Pterodroid-1.0.187.apk",
+  "sha256": "3b592261836080cda2db65576fcc05081a0a830e31623bf2100a414566b25ebc",
+  "sizeBytes": 6999101,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor ConsoleScreen and add ConsoleSettingsScreen",
+  "releaseNotes": "feat: Implement panel grouping and enhance diagnostics display",
   "changelog": [
-    "Removed toggle cards for auto scroll and keep screen on from ConsoleScreen.",
-    "Introduced ConsoleSettingsScreen to manage console settings with switches for auto scroll and prevent sleep.",
-    "Updated ServerListScreen to include sorting options for server display.",
-    "Added a navigation card for Console settings in SettingsScreen.",
-    "Modified color scheme to use a new Slate palette instead of Google blue.",
-    "Enhanced theme handling to support AMOLED mode."
+    "Added `PanelGroups` data model to manage panel connections by grouping.",
+    "Introduced `listLabel` and `accountName` functions for better display of panel information.",
+    "Updated `DiagnosticsScreen`, `ServerListScreen`, and `SetupCredentialsScreen` to utilize new grouping features.",
+    "Created `PanelDetailScreen` for detailed management of panel groups and API keys.",
+    "Added unit tests for panel grouping logic and utility functions."
   ]
 }

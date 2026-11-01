@@ -1,11 +1,11 @@
 {
-  "versionCode": 279,
-  "versionName": "1.0.179",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.179/Pterodroid-1.0.179.apk",
-  "sha256": "b3f8178bbbb02ae2136eacfbb69932bfe51097361c667f7eaf3313ada64ac0eb",
-  "sizeBytes": 6913161,
+  "versionCode": 280,
+  "versionName": "1.0.180",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.180/Pterodroid-1.0.180.apk",
+  "sha256": "cc65c6f885db901b28b18d89891d0924c9356b79f144631a9d06233484e55827",
+  "sizeBytes": 6913157,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Improve padding and layout consistency in ConsoleScreen and FileManagerScreen",
+  "releaseNotes": "feat: Enhance server loading state management and add skeleton loading animations in ServerListScreen",
   "changelog": []
 }

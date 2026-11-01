@@ -1,11 +1,11 @@
 {
-  "versionCode": 278,
-  "versionName": "1.0.178",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.178/Pterodroid-1.0.178.apk",
-  "sha256": "e66f9226ba9d5909f2206829b1870319baed1ad92d6625e667ae4d86a8271791",
+  "versionCode": 279,
+  "versionName": "1.0.179",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.179/Pterodroid-1.0.179.apk",
+  "sha256": "b3f8178bbbb02ae2136eacfbb69932bfe51097361c667f7eaf3313ada64ac0eb",
   "sizeBytes": 6913161,
   "publishedAt": "2026-11-01",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement server page swipe navigation and enhance screen transitions",
+  "releaseNotes": "refactor: Improve padding and layout consistency in ConsoleScreen and FileManagerScreen",
   "changelog": []
 }

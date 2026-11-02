@@ -1,19 +1,11 @@
 {
-  "versionCode": 294,
-  "versionName": "1.0.194",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.194/Pterodroid-1.0.194.apk",
-  "sha256": "14ab7505ac42d1f960671f0a9d1ee95fbf337a93de10bf0760db92a3af8f749f",
+  "versionCode": 295,
+  "versionName": "1.0.195",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.195/Pterodroid-1.0.195.apk",
+  "sha256": "ebbd71ebc183e6f90cf1bd7e3df20b0488001b4d0139c2c17a581dfde5bb032d",
   "sizeBytes": 7103637,
   "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Add dynamic color support and clipboard parsing for panel credentials",
-  "changelog": [
-    "Implemented dynamic color feature in MainActivity and related ViewModel.",
-    "Added clipboard parsing functionality to extract panel URL and API token.",
-    "Enhanced AppearanceScreen to include dynamic color toggle.",
-    "Updated AboutScreen with animated hero card and OTA highlight feature.",
-    "Introduced server shortcuts for quick access to online servers.",
-    "Added unit tests for clipboard parsing and server shortcut selection logic.",
-    "Updated Arabic and English string resources for new features."
-  ]
+  "releaseNotes": "refactor: Simplify button background handling in ServerListScreen for improved clarity",
+  "changelog": []
 }

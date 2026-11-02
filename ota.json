@@ -1,11 +1,11 @@
 {
-  "versionCode": 295,
-  "versionName": "1.0.195",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.195/Pterodroid-1.0.195.apk",
-  "sha256": "ebbd71ebc183e6f90cf1bd7e3df20b0488001b4d0139c2c17a581dfde5bb032d",
+  "versionCode": 296,
+  "versionName": "1.0.196",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.196/Pterodroid-1.0.196.apk",
+  "sha256": "5464c10bed9c7c197c07448a9bc8d982d18765cfb805a23ddc03e476ab94b868",
   "sizeBytes": 7103637,
   "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Simplify button background handling in ServerListScreen for improved clarity",
+  "releaseNotes": "refactor: Update icon background and tint handling in AccountScreen and SecurityPrivacyScreen for improved consistency",
   "changelog": []
 }

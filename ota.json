@@ -1,11 +1,11 @@
 {
-  "versionCode": 298,
-  "versionName": "1.0.198",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.198/Pterodroid-1.0.198.apk",
-  "sha256": "ce102b9a4b348b8c321fb2a90bb97e6a5766d1bac15d39a34f8439b77c09ee26",
-  "sizeBytes": 7172005,
+  "versionCode": 299,
+  "versionName": "1.0.199",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.199/Pterodroid-1.0.199.apk",
+  "sha256": "fa4f56845d0619147abd6296e24bd467a28e7d52fb821905a37e56cf2194b807",
+  "sizeBytes": 7155625,
   "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor passphrase terminology to passcode in strings and UI components; add PasscodePad for handling passcode input and management.",
+  "releaseNotes": "Introduce PteroTabPill and PteroTabRow components for reusable tab functionality; refactor ExportImportScreen to utilize new tab components",
   "changelog": []
 }

@@ -1,11 +1,18 @@
 {
-  "versionCode": 292,
-  "versionName": "1.0.192",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.192/Pterodroid-1.0.192.apk",
-  "sha256": "af26883187d7831780c2f912334dad19742acca4241577e01ca01901162eaae8",
-  "sizeBytes": 7079437,
+  "versionCode": 293,
+  "versionName": "1.0.193",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.193/Pterodroid-1.0.193.apk",
+  "sha256": "db802f9da100c56d37a195e2470fa1d0af3437a4ffed7d147a60120282f4d3e0",
+  "sizeBytes": 7100945,
   "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Extract Google ID token handling into separate methods for improved readability and maintainability. Simplify sign-in logic by reusing token request functionality.",
-  "changelog": []
+  "releaseNotes": "Add console level classification and history management features",
+  "changelog": [
+    "Introduced ConsoleLevel enum to categorize console messages (APP, INFO, WARNING, ERROR, SYSTEM).",
+    "Implemented classifyConsoleLine function to classify console output based on predefined patterns.",
+    "Added console level color mapping for UI representation based on message severity.",
+    "Created ConsoleHistoryRules for managing command history with deduplication and size limits.",
+    "Added unit tests for ConsoleHistoryRules and console level classification to ensure functionality and correctness.",
+    "Updated string resources for console toolbar and command history in both Arabic and English."
+  ]
 }

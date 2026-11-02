@@ -1,11 +1,11 @@
 {
-  "versionCode": 289,
-  "versionName": "1.0.189",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.189/Pterodroid-1.0.189.apk",
-  "sha256": "76a7260939657ac573d432702df45c0922e13ec9b0eda5b82569fc855d265288",
-  "sizeBytes": 7078981,
-  "publishedAt": "2026-11-01",
+  "versionCode": 290,
+  "versionName": "1.0.190",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.190/Pterodroid-1.0.190.apk",
+  "sha256": "1c85c012a3d3a92071fc3855022d0691eb623e62ca9617501383fbd28c00e8a4",
+  "sizeBytes": 7079437,
+  "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor icon tinting across various screens to use primary color scheme for better consistency and visibility. Update button shapes in StartupScreen for improved aesthetics. Add auto-download feature in UpdatesScreen with corresponding UI elements. Localize string resources for diagnostics and updates sections to enhance user experience.",
+  "releaseNotes": "refactor: Simplify ConsoleScreen power actions and enhance UI elements. Add localized string resources for power actions.",
   "changelog": []
 }

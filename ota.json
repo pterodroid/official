@@ -1,11 +1,11 @@
 {
-  "versionCode": 300,
-  "versionName": "1.0.200",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.200/Pterodroid-1.0.200.apk",
-  "sha256": "3817bfb13e31e0ba419aea01ddcaf4a61cdfa40ff07bc0a3a30a0336054c1c1a",
+  "versionCode": 301,
+  "versionName": "1.0.201",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.201/Pterodroid-1.0.201.apk",
+  "sha256": "31202c1654e24340a83d2cb684ed8e8c17cb17f288a01adfe55b8d92c5909e48",
   "sizeBytes": 7155625,
   "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Simplify TerminalLine component by removing unused icon handling and improving layout structure",
+  "releaseNotes": "refactor: Optimize PasscodePad and AppLockScreen for improved state management and animation handling",
   "changelog": []
 }

@@ -1,11 +1,11 @@
 {
-  "versionCode": 296,
-  "versionName": "1.0.196",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.196/Pterodroid-1.0.196.apk",
-  "sha256": "5464c10bed9c7c197c07448a9bc8d982d18765cfb805a23ddc03e476ab94b868",
-  "sizeBytes": 7103637,
+  "versionCode": 297,
+  "versionName": "1.0.197",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.197/Pterodroid-1.0.197.apk",
+  "sha256": "db50be8a4add17873d5ab30fc75b20204eac9dfc6e3fd747186a94d03ce5e35c",
+  "sizeBytes": 7136401,
   "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Update icon background and tint handling in AccountScreen and SecurityPrivacyScreen for improved consistency",
+  "releaseNotes": "feat: Implement tabbed interface for export and import functionality in ExportImportScreen",
   "changelog": []
 }

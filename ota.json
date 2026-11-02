@@ -1,18 +1,19 @@
 {
-  "versionCode": 293,
-  "versionName": "1.0.193",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.193/Pterodroid-1.0.193.apk",
-  "sha256": "db802f9da100c56d37a195e2470fa1d0af3437a4ffed7d147a60120282f4d3e0",
-  "sizeBytes": 7100945,
+  "versionCode": 294,
+  "versionName": "1.0.194",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.194/Pterodroid-1.0.194.apk",
+  "sha256": "14ab7505ac42d1f960671f0a9d1ee95fbf337a93de10bf0760db92a3af8f749f",
+  "sizeBytes": 7103637,
   "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add console level classification and history management features",
+  "releaseNotes": "feat: Add dynamic color support and clipboard parsing for panel credentials",
   "changelog": [
-    "Introduced ConsoleLevel enum to categorize console messages (APP, INFO, WARNING, ERROR, SYSTEM).",
-    "Implemented classifyConsoleLine function to classify console output based on predefined patterns.",
-    "Added console level color mapping for UI representation based on message severity.",
-    "Created ConsoleHistoryRules for managing command history with deduplication and size limits.",
-    "Added unit tests for ConsoleHistoryRules and console level classification to ensure functionality and correctness.",
-    "Updated string resources for console toolbar and command history in both Arabic and English."
+    "Implemented dynamic color feature in MainActivity and related ViewModel.",
+    "Added clipboard parsing functionality to extract panel URL and API token.",
+    "Enhanced AppearanceScreen to include dynamic color toggle.",
+    "Updated AboutScreen with animated hero card and OTA highlight feature.",
+    "Introduced server shortcuts for quick access to online servers.",
+    "Added unit tests for clipboard parsing and server shortcut selection logic.",
+    "Updated Arabic and English string resources for new features."
   ]
 }

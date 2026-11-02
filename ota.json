@@ -1,11 +1,11 @@
 {
-  "versionCode": 299,
-  "versionName": "1.0.199",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.199/Pterodroid-1.0.199.apk",
-  "sha256": "fa4f56845d0619147abd6296e24bd467a28e7d52fb821905a37e56cf2194b807",
+  "versionCode": 300,
+  "versionName": "1.0.200",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.200/Pterodroid-1.0.200.apk",
+  "sha256": "3817bfb13e31e0ba419aea01ddcaf4a61cdfa40ff07bc0a3a30a0336054c1c1a",
   "sizeBytes": 7155625,
   "publishedAt": "2026-11-02",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Introduce PteroTabPill and PteroTabRow components for reusable tab functionality; refactor ExportImportScreen to utilize new tab components",
+  "releaseNotes": "refactor: Simplify TerminalLine component by removing unused icon handling and improving layout structure",
   "changelog": []
 }

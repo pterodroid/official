@@ -1,11 +1,11 @@
 {
-  "versionCode": 306,
-  "versionName": "1.0.206",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.206/Pterodroid-1.0.206.apk",
-  "sha256": "e85208cb7dc72e4848cb8ff511d6ad752cecf12049511237a0687905431dda93",
-  "sizeBytes": 7139761,
+  "versionCode": 307,
+  "versionName": "1.0.207",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.207/Pterodroid-1.0.207.apk",
+  "sha256": "830765608523b0ed9d91c0167e02bfc45491e45a28a920b3cdf6726966414323",
+  "sizeBytes": 7156145,
   "publishedAt": "2026-11-03",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance OTA update handling with new notification and installation logic",
+  "releaseNotes": "Implement API variant resolver and enhance URL normalization logic",
   "changelog": []
 }

@@ -1,11 +1,17 @@
 {
-  "versionCode": 310,
-  "versionName": "1.0.210",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.210/Pterodroid-1.0.210.apk",
-  "sha256": "ace2e84a3d2ee30eac729821a992784b5e9c71632ab468495e0c5cfd49e1e89b",
-  "sizeBytes": 7156149,
+  "versionCode": 311,
+  "versionName": "1.0.211",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.211/Pterodroid-1.0.211.apk",
+  "sha256": "f19420dc615a5ca9864df4178b74c89a95118390d67aaf5f23c416d8eee1387a",
+  "sizeBytes": 7180229,
   "publishedAt": "2026-11-03",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add detailed error handling in ApiVariantResolver with response extraction",
-  "changelog": []
+  "releaseNotes": "Implement shake detection and command bar functionality",
+  "changelog": [
+    "Added ShakeDetector for detecting shake gestures using accelerometer.",
+    "Introduced ShakeMath for processing shake events and maintaining state.",
+    "Created CommandBarState and CommandBarViewModel to manage command bar UI state and logic.",
+    "Developed CommandBar composable for user interaction, including voice input and command processing.",
+    "Implemented unit tests for RuleBasedCommandInterpreter and ShakeMath to ensure correct command interpretation and shake detection logic."
+  ]
 }

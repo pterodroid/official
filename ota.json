@@ -1,17 +1,22 @@
 {
-  "versionCode": 311,
-  "versionName": "1.0.211",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.211/Pterodroid-1.0.211.apk",
-  "sha256": "f19420dc615a5ca9864df4178b74c89a95118390d67aaf5f23c416d8eee1387a",
-  "sizeBytes": 7180229,
+  "versionCode": 312,
+  "versionName": "1.0.212",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.212/Pterodroid-1.0.212.apk",
+  "sha256": "632558d1088074835a2d668d8f959a4bc97aedf60adfdb26930ff7f4e93f0bdb",
+  "sizeBytes": 7184013,
   "publishedAt": "2026-11-03",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement shake detection and command bar functionality",
+  "releaseNotes": "feat: Integrate local on-device AI with Needle model",
   "changelog": [
-    "Added ShakeDetector for detecting shake gestures using accelerometer.",
-    "Introduced ShakeMath for processing shake events and maintaining state.",
-    "Created CommandBarState and CommandBarViewModel to manage command bar UI state and logic.",
-    "Developed CommandBar composable for user interaction, including voice input and command processing.",
-    "Implemented unit tests for RuleBasedCommandInterpreter and ShakeMath to ensure correct command interpretation and shake detection logic."
+    "Added JNI bridge for Needle model integration with native C++ code.",
+    "Implemented NeedleCommandInterpreter for command parsing and inference.",
+    "Introduced NeedleModelManager for managing model download and status.",
+    "Updated MainActivity to initialize and close Needle engine.",
+    "Enhanced ConnectionPreferences to store Needle model enabled state.",
+    "Added UI components in AppearanceScreen for Needle model settings.",
+    "Created unit tests for NeedleCommandInterpreter functionality.",
+    "Updated ProGuard rules to keep NeedleNative class methods.",
+    "Added Arabic and English strings for Needle model settings.",
+    "Created build script for compiling Needle native engine for Android."
   ]
 }

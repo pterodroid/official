@@ -1,22 +1,11 @@
 {
-  "versionCode": 312,
-  "versionName": "1.0.212",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.212/Pterodroid-1.0.212.apk",
-  "sha256": "632558d1088074835a2d668d8f959a4bc97aedf60adfdb26930ff7f4e93f0bdb",
-  "sizeBytes": 7184013,
+  "versionCode": 313,
+  "versionName": "1.0.213",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.213/Pterodroid-1.0.213.apk",
+  "sha256": "6f62520372f83c2eea94b7913b2d2092e9991ea794cc48ef3c15c36d8845c771",
+  "sizeBytes": 7184469,
   "publishedAt": "2026-11-03",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Integrate local on-device AI with Needle model",
-  "changelog": [
-    "Added JNI bridge for Needle model integration with native C++ code.",
-    "Implemented NeedleCommandInterpreter for command parsing and inference.",
-    "Introduced NeedleModelManager for managing model download and status.",
-    "Updated MainActivity to initialize and close Needle engine.",
-    "Enhanced ConnectionPreferences to store Needle model enabled state.",
-    "Added UI components in AppearanceScreen for Needle model settings.",
-    "Created unit tests for NeedleCommandInterpreter functionality.",
-    "Updated ProGuard rules to keep NeedleNative class methods.",
-    "Added Arabic and English strings for Needle model settings.",
-    "Created build script for compiling Needle native engine for Android."
-  ]
+  "releaseNotes": "feat: Implement PushDrawer component with gesture handling and state management",
+  "changelog": []
 }

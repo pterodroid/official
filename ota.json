@@ -1,11 +1,11 @@
 {
-  "versionCode": 302,
-  "versionName": "1.0.202",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.202/Pterodroid-1.0.202.apk",
-  "sha256": "58a35fe31999fb26bec9a4a4a60136a7b82f9b97fa64db4e10fe109bfd60b073",
-  "sizeBytes": 7155621,
+  "versionCode": 304,
+  "versionName": "1.0.204",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.204/Pterodroid-1.0.204.apk",
+  "sha256": "52de08a26c6d400cd1ccc8bd42be12f75ad64aec78b5ee4d42e677f7c0619463",
+  "sizeBytes": 7139237,
   "publishedAt": "2026-11-03",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Remove unused variables and simplify logic in PasscodePad and AppLockScreen",
+  "releaseNotes": "refactor: Remove unused system property for Robolectric dependency in build.gradle.kts",
   "changelog": []
 }

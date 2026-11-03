@@ -1,18 +1,11 @@
 {
-  "versionCode": 314,
-  "versionName": "1.0.214",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.214/Pterodroid-1.0.214.apk",
-  "sha256": "f5019694b14bf6e6ad42d02e0aaffe0aee1367c670dd07f3739b4e49b19fcd98",
-  "sizeBytes": 7139761,
+  "versionCode": 315,
+  "versionName": "1.0.215",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.215/Pterodroid-1.0.215.apk",
+  "sha256": "59eba2f394aa0f11a067256be2c3d5504c12ce1cd76bb5646cdd6aa72f342bba",
+  "sizeBytes": 7140205,
   "publishedAt": "2026-11-03",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor UI components and remove unused features",
-  "changelog": [
-    "Deleted PushDrawer component and its associated logic.",
-    "Removed command bar and needle model settings from AppearanceScreen.",
-    "Updated ServerListScreen to use ModalNavigationDrawer instead of PushDrawer.",
-    "Cleaned up string resources by removing command bar and needle-related strings.",
-    "Deleted unit tests related to Needle command interpreter and PushDrawer logic.",
-    "Removed build script for Cactus Needle native engine for Android."
-  ]
+  "releaseNotes": "Merge branch 'main' of https://github.com/pterodroid/codebase",
+  "changelog": []
 }

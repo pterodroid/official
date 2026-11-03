@@ -1,11 +1,11 @@
 {
-  "versionCode": 308,
-  "versionName": "1.0.208",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.208/Pterodroid-1.0.208.apk",
-  "sha256": "47d2983bd600fd428438d4bf6664a7b0eecb5d6b0f89fdc3458613e13c4fa3fd",
+  "versionCode": 309,
+  "versionName": "1.0.209",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.209/Pterodroid-1.0.209.apk",
+  "sha256": "e053af8176be20f20d36508457b6d9843d79768bd9928779bac082ddd0f3ffe7",
   "sizeBytes": 7156145,
   "publishedAt": "2026-11-03",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "fix: Improve API variant interceptor error handling and enhance server filtering logic",
+  "releaseNotes": "Enhance response handling in ApiVariantResolver with detach method",
   "changelog": []
 }

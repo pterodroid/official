@@ -1,11 +1,11 @@
 {
-  "versionCode": 315,
-  "versionName": "1.0.215",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.215/Pterodroid-1.0.215.apk",
-  "sha256": "59eba2f394aa0f11a067256be2c3d5504c12ce1cd76bb5646cdd6aa72f342bba",
-  "sizeBytes": 7140205,
-  "publishedAt": "2026-11-03",
+  "versionCode": 316,
+  "versionName": "1.0.216",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.216/Pterodroid-1.0.216.apk",
+  "sha256": "f891349efa3ccc48d17a20fb0652853f341622ab8440c8f047e4b2f2870efee8",
+  "sizeBytes": 7157869,
+  "publishedAt": "2026-11-04",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Merge branch 'main' of https://github.com/pterodroid/codebase",
+  "releaseNotes": "feat: Update SplashScreen and WaterFillLogo components with improved animations and error handling",
   "changelog": []
 }

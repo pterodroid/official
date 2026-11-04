@@ -1,11 +1,11 @@
 {
-  "versionCode": 321,
-  "versionName": "1.0.221",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.221/Pterodroid-1.0.221.apk",
-  "sha256": "feb1e1b357f800d430361d4f0b65e0952e1b067e6df602dabdbb74e3cae8fce8",
-  "sizeBytes": 7157873,
+  "versionCode": 322,
+  "versionName": "1.0.222",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.222/Pterodroid-1.0.222.apk",
+  "sha256": "3235c493242e874907ed965cc989307ae94c9087a4aff57012af8bf36ec91c1b",
+  "sizeBytes": 7163525,
   "publishedAt": "2026-11-04",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Update swipe gesture for dashboard pages",
+  "releaseNotes": "Merge branch 'main' of https://github.com/pterodroid/codebase",
   "changelog": []
 }

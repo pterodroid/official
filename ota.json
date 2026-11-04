@@ -1,11 +1,11 @@
 {
-  "versionCode": 317,
-  "versionName": "1.0.217",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.217/Pterodroid-1.0.217.apk",
-  "sha256": "97965c7677b94b712e60241971959e568086ffbb66cb3e45fc4655bdcd4ec772",
-  "sizeBytes": 7163049,
+  "versionCode": 318,
+  "versionName": "1.0.218",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.218/Pterodroid-1.0.218.apk",
+  "sha256": "4554a43c49dd75715eb90844513312706a9b790b583c03527a1c5fbd657b0a7d",
+  "sizeBytes": 7163925,
   "publishedAt": "2026-11-04",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Update ServerListScreen and strings for enhanced drawer functionality and localization",
+  "releaseNotes": "feat: Implement server ping tracking and update UI components for latency display",
   "changelog": []
 }

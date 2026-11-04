@@ -1,11 +1,11 @@
 {
-  "versionCode": 322,
-  "versionName": "1.0.222",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.222/Pterodroid-1.0.222.apk",
-  "sha256": "3235c493242e874907ed965cc989307ae94c9087a4aff57012af8bf36ec91c1b",
+  "versionCode": 323,
+  "versionName": "1.0.223",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.223/Pterodroid-1.0.223.apk",
+  "sha256": "2794dc2e0d1f51a98e5818d6a4b2062c6db46bf5b51ede6e4b8d2445d50e1248",
   "sizeBytes": 7163525,
   "publishedAt": "2026-11-04",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Merge branch 'main' of https://github.com/pterodroid/codebase",
+  "releaseNotes": "feat: enhance server page navigation with echo tracking and switching logic",
   "changelog": []
 }

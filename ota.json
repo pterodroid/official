@@ -1,11 +1,11 @@
 {
-  "versionCode": 318,
-  "versionName": "1.0.218",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.218/Pterodroid-1.0.218.apk",
-  "sha256": "4554a43c49dd75715eb90844513312706a9b790b583c03527a1c5fbd657b0a7d",
-  "sizeBytes": 7163925,
+  "versionCode": 319,
+  "versionName": "1.0.219",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.219/Pterodroid-1.0.219.apk",
+  "sha256": "db4082855a57e880886d7d1cb665496e53ba0d1cd2f278c7fd2dafb52d42d527",
+  "sizeBytes": 7163929,
   "publishedAt": "2026-11-04",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Implement server ping tracking and update UI components for latency display",
+  "releaseNotes": "feat: Enhance UserDisplayPicture and DrawerRow components with customizable status dot color and improved styling",
   "changelog": []
 }

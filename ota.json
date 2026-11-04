@@ -1,11 +1,11 @@
 {
-  "versionCode": 323,
-  "versionName": "1.0.223",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.223/Pterodroid-1.0.223.apk",
-  "sha256": "2794dc2e0d1f51a98e5818d6a4b2062c6db46bf5b51ede6e4b8d2445d50e1248",
+  "versionCode": 324,
+  "versionName": "1.0.224",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.224/Pterodroid-1.0.224.apk",
+  "sha256": "a26c76784c13918bcc429b67ad2a86541c6b8ef790508d8140e9699bc19015c8",
   "sizeBytes": 7163525,
   "publishedAt": "2026-11-04",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: enhance server page navigation with echo tracking and switching logic",
+  "releaseNotes": "Optimize WaterFillLogo animation parameters and improve wave rendering",
   "changelog": []
 }

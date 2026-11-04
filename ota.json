@@ -1,11 +1,11 @@
 {
-  "versionCode": 319,
-  "versionName": "1.0.219",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.219/Pterodroid-1.0.219.apk",
-  "sha256": "db4082855a57e880886d7d1cb665496e53ba0d1cd2f278c7fd2dafb52d42d527",
-  "sizeBytes": 7163929,
+  "versionCode": 320,
+  "versionName": "1.0.220",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.220/Pterodroid-1.0.220.apk",
+  "sha256": "9210fc8903e528d024c595864f9ff8f7c21f5794227da97ea76044bbf376ec82",
+  "sizeBytes": 7157869,
   "publishedAt": "2026-11-04",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Enhance UserDisplayPicture and DrawerRow components with customizable status dot color and improved styling",
+  "releaseNotes": "Rollback to 1.0.216: Reverted a faulty release",
   "changelog": []
 }

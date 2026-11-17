@@ -1,11 +1,19 @@
 {
-  "versionCode": 346,
-  "versionName": "1.0.246",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.246/Pterodroid-1.0.246.apk",
-  "sha256": "e297dd72c9b3c97cb48731db568f2ea2bd63c6e6bcf1d5053fd07cdc68c7d807",
-  "sizeBytes": 8359565,
+  "versionCode": 347,
+  "versionName": "1.0.247",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.247/Pterodroid-1.0.247.apk",
+  "sha256": "67760557256671793c2ba517d1263a455d4e203f8bf466ac2dc2a085d0cb25ef",
+  "sizeBytes": 9007828,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat(diagnostics): Enhance network stats display with icons and improve layout",
-  "changelog": []
+  "releaseNotes": "feat: Add DiagnosticsCoordinator for managing connection diagnostics and panel states",
+  "changelog": [
+    "Implement DiagnosticsCoordinator to handle connection diagnostics with state management and event emission.",
+    "Introduce DiagnosticsCoordinatorState and DiagnosticsCoordinatorEvent for state representation and event handling.",
+    "Create methods for starting diagnostics, cancelling, and resetting for testing.",
+    "Add utility function to build panel inputs from saved connections.",
+    "Implement PcThemeResolver to resolve Material 3 color palettes based on user preferences and system settings.",
+    "Support dynamic color schemes for light and dark modes, including AMOLED mode.",
+    "Add methods to apply accent colors and convert color schemes to DTOs for web dashboard compatibility."
+  ]
 }

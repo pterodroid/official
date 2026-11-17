@@ -1,11 +1,19 @@
 {
-  "versionCode": 351,
-  "versionName": "1.0.251",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.251/Pterodroid-1.0.251.apk",
-  "sha256": "04ffc794a74b77d6256b77b34c2eee4318bf26e9d024016a656baabcfae897fd",
-  "sizeBytes": 30364513,
+  "versionCode": 352,
+  "versionName": "1.0.252",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.252/Pterodroid-1.0.252.apk",
+  "sha256": "8a7de33b34359f8a865105b09e616877ab5ecc7e26b72040cb3bb5ee092b24cb",
+  "sizeBytes": 30375963,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Update windowSoftInputMode to adjustNothing and clean up unused imports in FileManagerScreen",
-  "changelog": []
+  "releaseNotes": "Enhance diagnostics reporting and network analysis features",
+  "changelog": [
+    "Updated `PingStats` data class to include additional metrics: sent, received, and maxJitterMs.",
+    "Improved `summarize` function to calculate and return new metrics for ping statistics.",
+    "Enhanced `DiagnosticsPdfWriter` to display detailed network information including connection type, internet access, DNS lookup, ping details, jitter, and packet loss.",
+    "Modified `DiagnosticsRunner` to gather and report new network link information and transfer statistics for download and upload.",
+    "Updated UI components in `DiagnosticsScreen` to present new metrics and improve user experience with detailed sub-values for network diagnostics.",
+    "Added unit tests to validate new metrics in `PingStats` and ensure accurate reporting.",
+    "Removed unused image assets from the project."
+  ]
 }

@@ -1,17 +1,11 @@
 {
-  "versionCode": 330,
-  "versionName": "1.0.230",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.230/Pterodroid-1.0.230.apk",
-  "sha256": "09c66e15046be58458d62a8410ae8ba0ec3592c3b119b248cbf0ed84973258a4",
+  "versionCode": 331,
+  "versionName": "1.0.231",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.231/Pterodroid-1.0.231.apk",
+  "sha256": "4eb85c9170844f1ec854836a4a1fd7ea5f0eca4c3d12ae2e3480d6b9109981be",
   "sizeBytes": 7326921,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement tracking functionality with service management and notifications",
-  "changelog": [
-    "Added TrackingController for managing tracking services, including start, stop, and refresh actions.",
-    "Introduced TrackedServer data class and codec for encoding/decoding tracked server information.",
-    "Created TrackingNotificationBuilder for building and sending notifications related to tracking status.",
-    "Implemented tracking logic including memory usage calculations, polling intervals, and auto-stop conditions.",
-    "Added unit tests for tracking logic, ensuring correct behavior of encoding, decoding, and action availability."
-  ]
+  "releaseNotes": "refactor: Remove progress update logic from ongoing notification builder",
+  "changelog": []
 }

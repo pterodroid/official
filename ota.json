@@ -1,11 +1,18 @@
 {
-  "versionCode": 324,
-  "versionName": "1.0.224",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.224/Pterodroid-1.0.224.apk",
-  "sha256": "a26c76784c13918bcc429b67ad2a86541c6b8ef790508d8140e9699bc19015c8",
-  "sizeBytes": 7163525,
-  "publishedAt": "2026-11-04",
+  "versionCode": 325,
+  "versionName": "1.0.225",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.225/Pterodroid-1.0.225.apk",
+  "sha256": "cd15e43b196746edf8379da6738a1699e451b2f28d2bd0bf15e0d7c6ec4d78a7",
+  "sizeBytes": 7216693,
+  "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Optimize WaterFillLogo animation parameters and improve wave rendering",
-  "changelog": []
+  "releaseNotes": "feat: Implement UsersViewModel for managing subusers and permissions",
+  "changelog": [
+    "Added UsersViewModel to handle user-related operations such as loading, adding, updating, and deleting subusers.",
+    "Integrated error handling and loading states using UiState.",
+    "Ensured permissions are loaded before user operations.",
+    "Created SubuserPermissionsUnitTest to validate permission management and email validation.",
+    "Developed SubusersParsingUnitTest to test JSON parsing for subuser lists and individual subuser attributes.",
+    "Verified correct handling of system permissions and their conversion to groups."
+  ]
 }

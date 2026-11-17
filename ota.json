@@ -1,11 +1,11 @@
 {
-  "versionCode": 331,
-  "versionName": "1.0.231",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.231/Pterodroid-1.0.231.apk",
-  "sha256": "4eb85c9170844f1ec854836a4a1fd7ea5f0eca4c3d12ae2e3480d6b9109981be",
-  "sizeBytes": 7326921,
+  "versionCode": 332,
+  "versionName": "1.0.232",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.232/Pterodroid-1.0.232.apk",
+  "sha256": "ffd0f0117b7f96ccf4055118904d2cfde920ba282c00e75aa68e5fe551ef1327",
+  "sizeBytes": 7328393,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Remove progress update logic from ongoing notification builder",
+  "releaseNotes": "feat: Add Live Tracking feature with UI and navigation updates",
   "changelog": []
 }

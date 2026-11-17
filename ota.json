@@ -1,17 +1,17 @@
 {
-  "versionCode": 329,
-  "versionName": "1.0.229",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.229/Pterodroid-1.0.229.apk",
-  "sha256": "8e0a322454223797c31e3f0c96426d78d950657dacbb7cbaaeb40f71ea7608aa",
-  "sizeBytes": 7289701,
+  "versionCode": 330,
+  "versionName": "1.0.230",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.230/Pterodroid-1.0.230.apk",
+  "sha256": "09c66e15046be58458d62a8410ae8ba0ec3592c3b119b248cbf0ed84973258a4",
+  "sizeBytes": 7326921,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Implement ShareUploadViewModel for handling file sharing and uploads",
+  "releaseNotes": "Implement tracking functionality with service management and notifications",
   "changelog": [
-    "Added ShareUploadViewModel to manage the state and logic for file sharing.",
-    "Introduced ShareStep, ConflictPolicy, and ShareFileStatus sealed classes for better state management.",
-    "Implemented methods for selecting servers, navigating directories, and handling file uploads.",
-    "Added functionality for resolving server details and managing folder actions.",
-    "Created unit tests for ShareIntentParser and utility functions related to file sharing."
+    "Added TrackingController for managing tracking services, including start, stop, and refresh actions.",
+    "Introduced TrackedServer data class and codec for encoding/decoding tracked server information.",
+    "Created TrackingNotificationBuilder for building and sending notifications related to tracking status.",
+    "Implemented tracking logic including memory usage calculations, polling intervals, and auto-stop conditions.",
+    "Added unit tests for tracking logic, ensuring correct behavior of encoding, decoding, and action availability."
   ]
 }

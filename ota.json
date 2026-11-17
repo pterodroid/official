@@ -1,19 +1,11 @@
 {
-  "versionCode": 345,
-  "versionName": "1.0.245",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.245/Pterodroid-1.0.245.apk",
-  "sha256": "8ad7f1985e03a4cac318d7b2f43fae6c036d60f683382cd07258bdbb5633b8e0",
+  "versionCode": 346,
+  "versionName": "1.0.246",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.246/Pterodroid-1.0.246.apk",
+  "sha256": "e297dd72c9b3c97cb48731db568f2ea2bd63c6e6bcf1d5053fd07cdc68c7d807",
   "sizeBytes": 8359565,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Implement diagnostics transition state management and animations",
-  "changelog": [
-    "Added DiagnosticsDisplayMode enum to represent different states (IDLE, TRANSITIONING, ACTIVE).",
-    "Created DiagnosticsStartTransitionTiming object to define timing constants for animations.",
-    "Introduced DiagnosticsTransitionState data class to encapsulate the current state of the diagnostics transition.",
-    "Developed DiagnosticsTransitionMachine object to handle state transitions based on user interactions and current state.",
-    "Updated DiagnosticsScreen to manage transitions and animations based on the new state management system.",
-    "Enhanced UI responsiveness during diagnostics run with animations for idle, transitioning, and active states.",
-    "Added unit tests for transition state management to ensure correct behavior during state changes and user interactions."
-  ]
+  "releaseNotes": "feat(diagnostics): Enhance network stats display with icons and improve layout",
+  "changelog": []
 }

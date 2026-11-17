@@ -1,11 +1,11 @@
 {
-  "versionCode": 337,
-  "versionName": "1.0.237",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.237/Pterodroid-1.0.237.apk",
-  "sha256": "e7bc18a9b61dc8097ea8313f1ab856f6dca41f9d0516843f3a6573d334420c19",
-  "sizeBytes": 8116674,
+  "versionCode": 338,
+  "versionName": "1.0.238",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.238/Pterodroid-1.0.238.apk",
+  "sha256": "946d1087fb3f696ba01a087bea37cd5d5b074a8bce8e8f47dc099554215ad3d3",
+  "sizeBytes": 8118738,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat(widget): Refactor MetricContent to use renderSparkline and update UI elements",
+  "releaseNotes": "feat(tracking): Update tracking notification UI and add new string resources for better user guidance",
   "changelog": []
 }

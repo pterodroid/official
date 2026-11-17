@@ -1,18 +1,18 @@
 {
-  "versionCode": 334,
-  "versionName": "1.0.234",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.234/Pterodroid-1.0.234.apk",
-  "sha256": "7a2a4a9aac0047278e48a97a7f3e2bc023f092e13822ff9f53dabebb10cfff76",
-  "sizeBytes": 8082138,
+  "versionCode": 335,
+  "versionName": "1.0.235",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.235/Pterodroid-1.0.235.apk",
+  "sha256": "af617d81ffaf43619b0b6bfd7d3b759eca7f59ceb78cc96b5eef8785f17bc47b",
+  "sizeBytes": 8101206,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat(widget): Implement widget refresher and store management",
+  "releaseNotes": "feat: Add new widgets and functionality for server management",
   "changelog": [
-    "Added WidgetRefresher to handle refreshing of widget data and server metrics.",
-    "Introduced WidgetStore for managing widget configurations, metrics, and snapshots using DataStore.",
-    "Created WidgetUi for UI components and actions related to the widget.",
-    "Added drawable resources for widget icons and indicators.",
-    "Defined XML layouts for widget configurations.",
-    "Implemented unit tests for WidgetLogic to ensure correct functionality."
+    "Introduced new widgets: StatusPowerWidget, UptimeWidget, OverviewWidget, and ServerListWidget.",
+    "Implemented WidgetReceivers for the new widgets to handle user interactions.",
+    "Added PowerActionCallback to manage power actions (start, stop, restart) for servers.",
+    "Enhanced WidgetRegistry to include new widgets and their corresponding receivers.",
+    "Created XML configuration files for the new widgets to define their properties and layout.",
+    "Updated existing widget logic to accommodate new features and improve user experience."
   ]
 }

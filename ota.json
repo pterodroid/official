@@ -1,11 +1,11 @@
 {
-  "versionCode": 338,
-  "versionName": "1.0.238",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.238/Pterodroid-1.0.238.apk",
-  "sha256": "946d1087fb3f696ba01a087bea37cd5d5b074a8bce8e8f47dc099554215ad3d3",
-  "sizeBytes": 8118738,
+  "versionCode": 339,
+  "versionName": "1.0.239",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.239/Pterodroid-1.0.239.apk",
+  "sha256": "0a30d152840c046d40c7583a45482efad7a88f5ccd9c36280b19d7948fd39b84",
+  "sizeBytes": 8118734,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat(tracking): Update tracking notification UI and add new string resources for better user guidance",
+  "releaseNotes": "feat(tracking): Implement isEffectivelyRunning function and update related logic in notifications and dashboard",
   "changelog": []
 }

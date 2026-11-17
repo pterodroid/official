@@ -1,18 +1,15 @@
 {
-  "versionCode": 340,
-  "versionName": "1.0.240",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.240/Pterodroid-1.0.240.apk",
-  "sha256": "7fd8f73d8721927398ae504917d31a102c46e338c3c1371c1ed84c371aedac1b",
-  "sizeBytes": 8136990,
+  "versionCode": 341,
+  "versionName": "1.0.241",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.241/Pterodroid-1.0.241.apk",
+  "sha256": "a4dd473a75be9f88c6c13b1f3936d4711b18236230f133cf2ee3c4e931824fc8",
+  "sizeBytes": 8167426,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add diagnostics feature with connection checks and PDF report generation",
+  "releaseNotes": "Add diagnostic report strings and enhance health score computation tests",
   "changelog": [
-    "Implemented connection diagnostics including internet speed tests and panel accessibility checks.",
-    "Added UI components for displaying diagnostics results and progress.",
-    "Introduced data models for diagnostics reports and statistics.",
-    "Created a PDF writer for exporting diagnostics reports.",
-    "Added unit tests for the new diagnostics calculations and ratings.",
-    "Updated English and Arabic string resources for new diagnostics UI."
+    "Added Arabic and English strings for diagnostic report features including health score, panel status, and hints for common issues.",
+    "Implemented unit tests for computing health scores based on network conditions and panel diagnostics.",
+    "Enhanced detection of panel hints based on connection diagnostics."
   ]
 }

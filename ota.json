@@ -1,11 +1,18 @@
 {
-  "versionCode": 339,
-  "versionName": "1.0.239",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.239/Pterodroid-1.0.239.apk",
-  "sha256": "0a30d152840c046d40c7583a45482efad7a88f5ccd9c36280b19d7948fd39b84",
-  "sizeBytes": 8118734,
+  "versionCode": 340,
+  "versionName": "1.0.240",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.240/Pterodroid-1.0.240.apk",
+  "sha256": "7fd8f73d8721927398ae504917d31a102c46e338c3c1371c1ed84c371aedac1b",
+  "sizeBytes": 8136990,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat(tracking): Implement isEffectivelyRunning function and update related logic in notifications and dashboard",
-  "changelog": []
+  "releaseNotes": "Add diagnostics feature with connection checks and PDF report generation",
+  "changelog": [
+    "Implemented connection diagnostics including internet speed tests and panel accessibility checks.",
+    "Added UI components for displaying diagnostics results and progress.",
+    "Introduced data models for diagnostics reports and statistics.",
+    "Created a PDF writer for exporting diagnostics reports.",
+    "Added unit tests for the new diagnostics calculations and ratings.",
+    "Updated English and Arabic string resources for new diagnostics UI."
+  ]
 }

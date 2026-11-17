@@ -1,11 +1,18 @@
 {
-  "versionCode": 343,
-  "versionName": "1.0.243",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.243/Pterodroid-1.0.243.apk",
-  "sha256": "d617a890045139e202d5229a3da895b74a53bfd4e02d3129510f528c22cf1917",
-  "sizeBytes": 8167878,
+  "versionCode": 344,
+  "versionName": "1.0.244",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.244/Pterodroid-1.0.244.apk",
+  "sha256": "93f3e80dd353434c9c0c4516a1b4df3c8404ae2439840d49b37b20e58f997011",
+  "sizeBytes": 8343181,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat(ui): Refactor status handling and enhance UI components with new PanelIconBadge and improved StatusDot logic",
-  "changelog": []
+  "releaseNotes": "feat: Add PC Mode screen with network management and pairing functionality",
+  "changelog": [
+    "Implemented the PcModeScreen composable for managing PC mode, including starting/stopping the service, displaying connection status, and handling network information.",
+    "Added functionality for copying and sharing the PC mode URL, along with QR code generation.",
+    "Created ConnectedBrowserRow for displaying connected sessions and managing disconnections.",
+    "Introduced idle timeout settings with segmented button options.",
+    "Added security features including pairing code validation, IP address validation, and session management.",
+    "Developed unit tests for QR code generation, HTTP server behavior, and security mechanisms."
+  ]
 }

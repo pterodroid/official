@@ -1,11 +1,11 @@
 {
-  "versionCode": 348,
-  "versionName": "1.0.248",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.248/Pterodroid-1.0.248.apk",
-  "sha256": "5ca48e61159636576f17de9f0eef1e87621a3334192897dd983495465a0f8918",
-  "sizeBytes": 9007828,
+  "versionCode": 349,
+  "versionName": "1.0.249",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.249/Pterodroid-1.0.249.apk",
+  "sha256": "9270a55ba1d1031bc646d60482f43f01825690ef581a04dca3d8217569094349",
+  "sizeBytes": 9017651,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat(ui): Enhance DiagnosticsScreen with checking animation and status indicators",
+  "releaseNotes": "Refactor code structure for improved readability and maintainability",
   "changelog": []
 }

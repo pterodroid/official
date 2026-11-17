@@ -1,11 +1,11 @@
 {
-  "versionCode": 326,
-  "versionName": "1.0.226",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.226/Pterodroid-1.0.226.apk",
-  "sha256": "f56895df32160c7e69c80622f31db10a91aa3c1adc139b1badab8d0112389c5f",
-  "sizeBytes": 7216693,
+  "versionCode": 327,
+  "versionName": "1.0.227",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.227/Pterodroid-1.0.227.apk",
+  "sha256": "91ff14274e0d71be9b646d459c79474d31cb25c7508f738d1babecb50cb91261",
+  "sizeBytes": 7217565,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "refactor: Remove blockServerPageSwipe modifier from multiple screens",
+  "releaseNotes": "feat: Enhance ConsoleScreen with new dock functionality and improved log actions",
   "changelog": []
 }

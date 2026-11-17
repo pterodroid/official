@@ -1,11 +1,18 @@
 {
-  "versionCode": 333,
-  "versionName": "1.0.233",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.233/Pterodroid-1.0.233.apk",
-  "sha256": "4c6daddd3dad9c38bfbf2aed14dc7cb38be58af2b81a98840587633f0a2698d5",
-  "sizeBytes": 7328393,
+  "versionCode": 334,
+  "versionName": "1.0.234",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.234/Pterodroid-1.0.234.apk",
+  "sha256": "7a2a4a9aac0047278e48a97a7f3e2bc023f092e13822ff9f53dabebb10cfff76",
+  "sizeBytes": 8082138,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "fix: Disable chronometer display in ongoing notifications to prevent rendering issues",
-  "changelog": []
+  "releaseNotes": "feat(widget): Implement widget refresher and store management",
+  "changelog": [
+    "Added WidgetRefresher to handle refreshing of widget data and server metrics.",
+    "Introduced WidgetStore for managing widget configurations, metrics, and snapshots using DataStore.",
+    "Created WidgetUi for UI components and actions related to the widget.",
+    "Added drawable resources for widget icons and indicators.",
+    "Defined XML layouts for widget configurations.",
+    "Implemented unit tests for WidgetLogic to ensure correct functionality."
+  ]
 }

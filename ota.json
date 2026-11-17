@@ -1,11 +1,11 @@
 {
-  "versionCode": 349,
-  "versionName": "1.0.249",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.249/Pterodroid-1.0.249.apk",
-  "sha256": "9270a55ba1d1031bc646d60482f43f01825690ef581a04dca3d8217569094349",
-  "sizeBytes": 9017651,
+  "versionCode": 350,
+  "versionName": "1.0.250",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.250/Pterodroid-1.0.250.apk",
+  "sha256": "ffb55da3173223626d20dc67c85fa2738188aecca91bb25e1db848062f2d8eaa",
+  "sizeBytes": 30364513,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor code structure for improved readability and maintainability",
+  "releaseNotes": "feat: Integrate ML Kit Barcode Scanning library and update dependencies",
   "changelog": []
 }

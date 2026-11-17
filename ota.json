@@ -1,11 +1,17 @@
 {
-  "versionCode": 328,
-  "versionName": "1.0.228",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.228/Pterodroid-1.0.228.apk",
-  "sha256": "5d8c4ff39ae523c109c1703d29cf91d287d1fe404bb2180d3aa908ddf3d39b65",
-  "sizeBytes": 7233953,
+  "versionCode": 329,
+  "versionName": "1.0.229",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.229/Pterodroid-1.0.229.apk",
+  "sha256": "8e0a322454223797c31e3f0c96426d78d950657dacbb7cbaaeb40f71ea7608aa",
+  "sizeBytes": 7289701,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Add icon support to ServerTab and PteroTabPill components",
-  "changelog": []
+  "releaseNotes": "feat: Implement ShareUploadViewModel for handling file sharing and uploads",
+  "changelog": [
+    "Added ShareUploadViewModel to manage the state and logic for file sharing.",
+    "Introduced ShareStep, ConflictPolicy, and ShareFileStatus sealed classes for better state management.",
+    "Implemented methods for selecting servers, navigating directories, and handling file uploads.",
+    "Added functionality for resolving server details and managing folder actions.",
+    "Created unit tests for ShareIntentParser and utility functions related to file sharing."
+  ]
 }

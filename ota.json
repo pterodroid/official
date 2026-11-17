@@ -1,11 +1,11 @@
 {
-  "versionCode": 342,
-  "versionName": "1.0.242",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.242/Pterodroid-1.0.242.apk",
-  "sha256": "1e04d6b8343525d07da47933876161691bd0e8cf2757d3285df6dc9c5ce7deaa",
+  "versionCode": 343,
+  "versionName": "1.0.243",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.243/Pterodroid-1.0.243.apk",
+  "sha256": "d617a890045139e202d5229a3da895b74a53bfd4e02d3129510f528c22cf1917",
   "sizeBytes": 8167878,
   "publishedAt": "2026-11-17",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat(diagnostics): Enhance speed rating logic and health score computation; add idle state UI in DiagnosticsScreen",
+  "releaseNotes": "feat(ui): Refactor status handling and enhance UI components with new PanelIconBadge and improved StatusDot logic",
   "changelog": []
 }

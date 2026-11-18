@@ -1,17 +1,20 @@
 {
-  "versionCode": 366,
-  "versionName": "1.0.266",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.266/Pterodroid-1.0.266.apk",
-  "sha256": "a0ad68d9828a412780bd757f0294be6522aa5c5c85f2afcec54330f972be5cbb",
-  "sizeBytes": 30458464,
+  "versionCode": 367,
+  "versionName": "1.0.267",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.267/Pterodroid-1.0.267.apk",
+  "sha256": "51c2213d73d3a09440473ecaae9c8ff241511adcb0f36ce54524c3dff95676e7",
+  "sizeBytes": 30487578,
   "publishedAt": "2026-11-18",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: enhance modal and toast functionality, improve settings UI",
+  "releaseNotes": "feat: Add panel management functionality with rate limiting and user agent classification",
   "changelog": [
-    "Added support for icons in modals and improved modal options handling.",
-    "Refactored toast notifications to use a bubble design with icons and action buttons.",
-    "Enhanced settings page with toggle switches and improved layout for better user experience.",
-    "Implemented responsive positioning for dropdown menus in file views.",
-    "Updated server tab modals to support wider layouts for better content display."
+    "Introduced `PcPanelAdder` for handling panel addition with validation and diagnostics.",
+    "Implemented `PcSessionAttemptLimiter` to limit connection attempts per session.",
+    "Enhanced user agent classification in `PcSessionStore` to identify device OS and type.",
+    "Updated API routes in `PcApiRouter` to support adding and testing panels.",
+    "Added new data models for panel requests and responses.",
+    "Integrated skeleton loading UI in the frontend with `skeleton.js`.",
+    "Improved session information DTO to include device details.",
+    "Added comprehensive unit tests for panel addition and session attempt limiting."
   ]
 }

@@ -1,19 +1,11 @@
 {
-  "versionCode": 352,
-  "versionName": "1.0.252",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.252/Pterodroid-1.0.252.apk",
-  "sha256": "8a7de33b34359f8a865105b09e616877ab5ecc7e26b72040cb3bb5ee092b24cb",
-  "sizeBytes": 30375963,
-  "publishedAt": "2026-11-17",
+  "versionCode": 353,
+  "versionName": "1.0.253",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.253/Pterodroid-1.0.253.apk",
+  "sha256": "f62ebbbccd4df53808efd271939e9f639bbeb165f2bb8285f5b90b961b24d6e0",
+  "sizeBytes": 30408763,
+  "publishedAt": "2026-11-18",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Enhance diagnostics reporting and network analysis features",
-  "changelog": [
-    "Updated `PingStats` data class to include additional metrics: sent, received, and maxJitterMs.",
-    "Improved `summarize` function to calculate and return new metrics for ping statistics.",
-    "Enhanced `DiagnosticsPdfWriter` to display detailed network information including connection type, internet access, DNS lookup, ping details, jitter, and packet loss.",
-    "Modified `DiagnosticsRunner` to gather and report new network link information and transfer statistics for download and upload.",
-    "Updated UI components in `DiagnosticsScreen` to present new metrics and improve user experience with detailed sub-values for network diagnostics.",
-    "Added unit tests to validate new metrics in `PingStats` and ensure accurate reporting.",
-    "Removed unused image assets from the project."
-  ]
+  "releaseNotes": "feat(proguard): Add ProGuard rules for diagnostics models and enums",
+  "changelog": []
 }

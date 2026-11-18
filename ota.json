@@ -1,11 +1,20 @@
 {
-  "versionCode": 361,
-  "versionName": "1.0.261",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.261/Pterodroid-1.0.261.apk",
-  "sha256": "513fd803bed7f1ae63dd1cd53ba1705942d0df196cdf8f141378fbb1acaa2a63",
-  "sizeBytes": 30443947,
+  "versionCode": 362,
+  "versionName": "1.0.262",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.262/Pterodroid-1.0.262.apk",
+  "sha256": "e0590b13120057fa3dd1f149a7ae550ffc3f228d0e55ce4e44f95957dafc309d",
+  "sizeBytes": 30446720,
   "publishedAt": "2026-11-18",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Implement phone display name functionality and update UI elements for better responsiveness",
-  "changelog": []
+  "releaseNotes": "feat: implement asset hashing for PC UI version and add service worker",
+  "changelog": [
+    "Added SHA-256 hashing for assets in the PC directory to generate a unique version string.",
+    "Updated build configuration to include the generated PC_UI_VERSION.",
+    "Introduced a service worker (sw.js) to manage caching and offline capabilities.",
+    "Modified the HTTP server to inject the PC_UI_VERSION into the service worker.",
+    "Enhanced file management UI with new file creation functionality and improved upload handling.",
+    "Updated translations for new file prompts in Arabic and English.",
+    "Refactored server tab views to include backup and database creation modals.",
+    "Improved user experience by managing reload blockers during file uploads and editor interactions."
+  ]
 }

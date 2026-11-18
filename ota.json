@@ -1,11 +1,11 @@
 {
-  "versionCode": 355,
-  "versionName": "1.0.255",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.255/Pterodroid-1.0.255.apk",
-  "sha256": "a9c72940d091875e0455baea3546b06b51fd28a87ba6418d7bc6035d776d62c8",
-  "sizeBytes": 30443055,
+  "versionCode": 356,
+  "versionName": "1.0.256",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.256/Pterodroid-1.0.256.apk",
+  "sha256": "58193a5cc42f2c31d2164d7d4e37b529716be109996f228cc6d8901b66fdaac9",
+  "sizeBytes": 30441443,
   "publishedAt": "2026-11-18",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Enhance QR code penalty calculation with finder-like pattern detection",
+  "releaseNotes": "refactor: Remove unused sidebar and topbar elements from layout and scripts",
   "changelog": []
 }

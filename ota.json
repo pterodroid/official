@@ -1,11 +1,17 @@
 {
-  "versionCode": 365,
-  "versionName": "1.0.265",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.265/Pterodroid-1.0.265.apk",
-  "sha256": "d29af987c1dfb0c63cd3d04b279b7fb2012c1d16324f3e063edffdfe9aa97709",
-  "sizeBytes": 30451740,
+  "versionCode": 366,
+  "versionName": "1.0.266",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.266/Pterodroid-1.0.266.apk",
+  "sha256": "a0ad68d9828a412780bd757f0294be6522aa5c5c85f2afcec54330f972be5cbb",
+  "sizeBytes": 30458464,
   "publishedAt": "2026-11-18",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: add motion animations for UI elements and enhance toast notifications with exit animations",
-  "changelog": []
+  "releaseNotes": "feat: enhance modal and toast functionality, improve settings UI",
+  "changelog": [
+    "Added support for icons in modals and improved modal options handling.",
+    "Refactored toast notifications to use a bubble design with icons and action buttons.",
+    "Enhanced settings page with toggle switches and improved layout for better user experience.",
+    "Implemented responsive positioning for dropdown menus in file views.",
+    "Updated server tab modals to support wider layouts for better content display."
+  ]
 }

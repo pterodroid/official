@@ -1,11 +1,11 @@
 {
-  "versionCode": 363,
-  "versionName": "1.0.263",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.263/Pterodroid-1.0.263.apk",
-  "sha256": "5c29ec353e0524173af31996a11ef51051fe2ee9dcde9b25072c165b1539719e",
-  "sizeBytes": 30446912,
+  "versionCode": 364,
+  "versionName": "1.0.264",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.264/Pterodroid-1.0.264.apk",
+  "sha256": "2c484f2c8c2ac69ea20942a6ef52c09b8d28a939998275a8696ceada9ab39fa7",
+  "sizeBytes": 30450812,
   "publishedAt": "2026-11-18",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: update layout styles, modify disconnect button icon, and enhance QR code logo handling",
+  "releaseNotes": "feat: enhance file upload experience with drag-and-drop support, improve QR code handling, and add offline retry functionality",
   "changelog": []
 }

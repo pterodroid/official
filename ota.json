@@ -1,11 +1,19 @@
 {
-  "versionCode": 378,
-  "versionName": "1.0.278",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.278/Pterodroid-1.0.278.apk",
-  "sha256": "4a1371e48c6b4a8678bdd53da7a6d62f1f216dbc4425cdade6bda8eb0a01ccd5",
-  "sizeBytes": 30534009,
+  "versionCode": 379,
+  "versionName": "1.0.279",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.279/Pterodroid-1.0.279.apk",
+  "sha256": "e3a376a485a8f89b7e73c76ff720ea6449f7df31cf1b0988692e900d255fba34",
+  "sizeBytes": 30554781,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Add home button with icon and accessibility attributes to breadcrumb navigation",
-  "changelog": []
+  "releaseNotes": "feat: Enhance code editor with gutter and bracket matching functionality",
+  "changelog": [
+    "Added a gutter to the code editor for line numbering and active line highlighting.",
+    "Implemented synchronization of gutter lines with the number of lines in the editor.",
+    "Introduced functions to calculate cursor line information and manage bracket matching.",
+    "Enhanced the highlighting logic to include bracket matching and error handling for mismatched brackets.",
+    "Updated the UI to reflect changes in the gutter and editor layout.",
+    "Improved performance by caching highlighted code and reducing unnecessary re-renders.",
+    "Added unit tests for bracket scanning and matching functionality."
+  ]
 }

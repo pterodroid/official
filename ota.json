@@ -1,11 +1,11 @@
 {
-  "versionCode": 384,
-  "versionName": "1.0.284",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.284/Pterodroid-1.0.284.apk",
-  "sha256": "c38d2c3f8685e7b910309f8dd9ef02b98a46aaa938d0c9562be89a58b39b31df",
-  "sizeBytes": 30605498,
+  "versionCode": 385,
+  "versionName": "1.0.285",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.285/Pterodroid-1.0.285.apk",
+  "sha256": "d62f2bbcdd9da04ca9aadc253cf25f08415cd8557e2118fb8b61609363eaf67e",
+  "sizeBytes": 30606798,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: add IDE settings screen with minimap and bracket guides options",
+  "releaseNotes": "feat: implement PWA install prompt and UI components",
   "changelog": []
 }

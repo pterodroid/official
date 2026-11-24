@@ -1,11 +1,11 @@
 {
-  "versionCode": 369,
-  "versionName": "1.0.269",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.269/Pterodroid-1.0.269.apk",
-  "sha256": "ace0f6589a3d70a910e6f3a8bbef7986057e3eb707afbf0a8cb9d8770a2f2407",
-  "sizeBytes": 30488982,
-  "publishedAt": "2026-11-18",
+  "versionCode": 370,
+  "versionName": "1.0.270",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.270/Pterodroid-1.0.270.apk",
+  "sha256": "37b1feacf3d40f58c822ed01a80431f25f6965e276b070a565919fca0cba5bcc",
+  "sizeBytes": 30495678,
+  "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: enhance UI components with new styles, improve cron scheduling interface, and add bring-into-view functionality",
+  "releaseNotes": "fix: keyboard display in editor mode",
   "changelog": []
 }

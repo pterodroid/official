@@ -1,11 +1,20 @@
 {
-  "versionCode": 370,
-  "versionName": "1.0.270",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.270/Pterodroid-1.0.270.apk",
-  "sha256": "37b1feacf3d40f58c822ed01a80431f25f6965e276b070a565919fca0cba5bcc",
-  "sizeBytes": 30495678,
+  "versionCode": 371,
+  "versionName": "1.0.271",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.271/Pterodroid-1.0.271.apk",
+  "sha256": "a78130d1d0bd20270430bcb1618d61f2d8be60fab173690f15a50cbbacd4c124",
+  "sizeBytes": 30522965,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "fix: keyboard display in editor mode",
-  "changelog": []
+  "releaseNotes": "Add unit tests for code highlighting and tokenization functionality",
+  "changelog": [
+    "Implement tests for language detection based on file extensions.",
+    "Validate highlighting of Kotlin line comments and multiline block comments.",
+    "Ensure proper detection of strings with escaped quotes and various number formats.",
+    "Test JSON parsing to distinguish keys from string values.",
+    "Verify HTML tag and attribute highlighting.",
+    "Check Python triple-quoted strings across multiple lines.",
+    "Confirm that highlightCode function preserves text and uses color palette correctly.",
+    "Introduce fuzz testing for tokenization across multiple languages to ensure sorted, bounded, and non-overlapping tokens."
+  ]
 }

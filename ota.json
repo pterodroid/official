@@ -1,11 +1,11 @@
 {
-  "versionCode": 375,
-  "versionName": "1.0.275",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.275/Pterodroid-1.0.275.apk",
-  "sha256": "46cfd9d7ad33a2d206ef9d5fe8bf3773a71997088f9dbd6af9054cde5aaa16d4",
-  "sizeBytes": 30532857,
+  "versionCode": 376,
+  "versionName": "1.0.276",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.276/Pterodroid-1.0.276.apk",
+  "sha256": "969f94364084bef20580a4a1fa1415eb6a2b4d7efc0b33ba46a7c29fc4aa4990",
+  "sizeBytes": 30533765,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Enhance UI components and improve user interaction with updated styles and modal handling",
+  "releaseNotes": "fix: Improve haptic feedback handling and enhance UI text clarity in PC mode",
   "changelog": []
 }

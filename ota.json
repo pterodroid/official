@@ -1,19 +1,19 @@
 {
-  "versionCode": 379,
-  "versionName": "1.0.279",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.279/Pterodroid-1.0.279.apk",
-  "sha256": "e3a376a485a8f89b7e73c76ff720ea6449f7df31cf1b0988692e900d255fba34",
-  "sizeBytes": 30554781,
+  "versionCode": 380,
+  "versionName": "1.0.280",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.280/Pterodroid-1.0.280.apk",
+  "sha256": "670e06b56f0db80e2305d826328ea625af91dbcdf0f8ba43dbf822b57fecd592",
+  "sizeBytes": 30561581,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Enhance code editor with gutter and bracket matching functionality",
+  "releaseNotes": "feat: Add SFTP account details and username retrieval",
   "changelog": [
-    "Added a gutter to the code editor for line numbering and active line highlighting.",
-    "Implemented synchronization of gutter lines with the number of lines in the editor.",
-    "Introduced functions to calculate cursor line information and manage bracket matching.",
-    "Enhanced the highlighting logic to include bracket matching and error handling for mismatched brackets.",
-    "Updated the UI to reflect changes in the gutter and editor layout.",
-    "Improved performance by caching highlighted code and reducing unnecessary re-renders.",
-    "Added unit tests for bracket scanning and matching functionality."
+    "Implemented API service method to fetch client account details.",
+    "Created data model for ClientAccountAttributes to represent account information.",
+    "Enhanced PteroRepository to cache and manage account usernames.",
+    "Updated PcApiRouter to include account username in server details response.",
+    "Modified UI components to display SFTP details and actions for copying credentials.",
+    "Added new strings for SFTP-related UI elements and actions.",
+    "Created unit tests for SFTP account retrieval and DTO serialization."
   ]
 }

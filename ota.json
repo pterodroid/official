@@ -1,11 +1,17 @@
 {
-  "versionCode": 373,
-  "versionName": "1.0.273",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.273/Pterodroid-1.0.273.apk",
-  "sha256": "88c47e81665fdfddee3a8ba9d9fe5ab54137d12ae4894a9509ec69b7c8d2545e",
-  "sizeBytes": 30523801,
+  "versionCode": 374,
+  "versionName": "1.0.274",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.274/Pterodroid-1.0.274.apk",
+  "sha256": "f3fa976acbccf8f9e8b02f5a6b185b134d1e97fbd1903b8b9240bc85fdb5db17",
+  "sizeBytes": 30531973,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "fix: update windowSoftInputMode to adjustResize for better keyboard handling and improve text field visibility",
-  "changelog": []
+  "releaseNotes": "feat: Implement OTA management and alert system",
+  "changelog": [
+    "Added endpoints for checking alerts and testing notifications in PcApiRouter.",
+    "Introduced methods for handling app updates, including fetching and updating settings.",
+    "Integrated OtaManager into PcModeController for managing OTA updates.",
+    "Enhanced PcSettingsDto and PcUpdateSettingsRequest to include new settings related to theme and notifications.",
+    "Updated MainViewModel to attach the OtaManager during initialization."
+  ]
 }

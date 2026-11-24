@@ -1,11 +1,11 @@
 {
-  "versionCode": 377,
-  "versionName": "1.0.277",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.277/Pterodroid-1.0.277.apk",
-  "sha256": "8972d4499bf47947fa776f9033294fec468c2bcbb5c525e59bbe6996cb1f23b1",
-  "sizeBytes": 30533793,
+  "versionCode": 378,
+  "versionName": "1.0.278",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.278/Pterodroid-1.0.278.apk",
+  "sha256": "4a1371e48c6b4a8678bdd53da7a6d62f1f216dbc4425cdade6bda8eb0a01ccd5",
+  "sizeBytes": 30534009,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Update button styles to use icon-btn-filled for improved UI consistency and accessibility",
+  "releaseNotes": "feat: Add home button with icon and accessibility attributes to breadcrumb navigation",
   "changelog": []
 }

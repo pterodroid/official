@@ -1,19 +1,17 @@
 {
-  "versionCode": 380,
-  "versionName": "1.0.280",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.280/Pterodroid-1.0.280.apk",
-  "sha256": "670e06b56f0db80e2305d826328ea625af91dbcdf0f8ba43dbf822b57fecd592",
-  "sizeBytes": 30561581,
+  "versionCode": 383,
+  "versionName": "1.0.283",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.283/Pterodroid-1.0.283.apk",
+  "sha256": "30e633ae07aa128a9c1c7f091a556e4875617ac58afcf7a24064354303a83e41",
+  "sizeBytes": 30587882,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "feat: Add SFTP account details and username retrieval",
+  "releaseNotes": "Refactor server settings UI and improve SFTP details handling",
   "changelog": [
-    "Implemented API service method to fetch client account details.",
-    "Created data model for ClientAccountAttributes to represent account information.",
-    "Enhanced PteroRepository to cache and manage account usernames.",
-    "Updated PcApiRouter to include account username in server details response.",
-    "Modified UI components to display SFTP details and actions for copying credentials.",
-    "Added new strings for SFTP-related UI elements and actions.",
-    "Created unit tests for SFTP account retrieval and DTO serialization."
+    "Updated layout styles for sidebar disconnect buttons to use transparent backgrounds.",
+    "Enhanced serverTabs.js to create a two-column layout for server settings, improving organization and readability.",
+    "Refactored PteroAppBar.kt to simplify icon button handling and removed unnecessary composition locals.",
+    "Improved ServerSettingsScreen.kt by introducing dedicated components for server renaming and SFTP details, enhancing code readability and maintainability.",
+    "Added new strings for editor functionalities in Arabic localization."
   ]
 }

@@ -1,17 +1,11 @@
 {
-  "versionCode": 383,
-  "versionName": "1.0.283",
-  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.283/Pterodroid-1.0.283.apk",
-  "sha256": "30e633ae07aa128a9c1c7f091a556e4875617ac58afcf7a24064354303a83e41",
-  "sizeBytes": 30587882,
+  "versionCode": 384,
+  "versionName": "1.0.284",
+  "apkUrl": "https://github.com/pterodroid/official/releases/download/v1.0.284/Pterodroid-1.0.284.apk",
+  "sha256": "c38d2c3f8685e7b910309f8dd9ef02b98a46aaa938d0c9562be89a58b39b31df",
+  "sizeBytes": 30605498,
   "publishedAt": "2026-11-24",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "Refactor server settings UI and improve SFTP details handling",
-  "changelog": [
-    "Updated layout styles for sidebar disconnect buttons to use transparent backgrounds.",
-    "Enhanced serverTabs.js to create a two-column layout for server settings, improving organization and readability.",
-    "Refactored PteroAppBar.kt to simplify icon button handling and removed unnecessary composition locals.",
-    "Improved ServerSettingsScreen.kt by introducing dedicated components for server renaming and SFTP details, enhancing code readability and maintainability.",
-    "Added new strings for editor functionalities in Arabic localization."
-  ]
+  "releaseNotes": "feat: add IDE settings screen with minimap and bracket guides options",
+  "changelog": []
 }
